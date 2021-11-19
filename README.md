@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on personal project [azblog](https://github.com/anurag629/azblog)
 
-- 🌱 I’m currently learning **ReactJs and kotlin**
+- 🌱 I’m currently learning **ReactJs and Flutter**
 
 - 🤝 I’m looking for help with [azblog](https://github.com/anurag629/azblog)
 
 - 📝 I regularly write articles on [https://egblog.me](https://egblog.me/index)
 
-- 💬 Ask me about **Python, Django, ReactJs and Kotlin**
+- 💬 Ask me about **Python, Django, ReactJs and Flutter**
 
 - 📫 How to reach me **akvermaav629@gmail.com**
 
