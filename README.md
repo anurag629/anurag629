@@ -9,9 +9,9 @@
 
 - 🤝 I’m looking for help with [azblog](https://github.com/anurag629/azblog)
 
-- 📝 I regularly write articles on [https://egblog.me](https://egblog.me/index)
+- 📝 I regularly write articles on [https://egblog.me](https://egblogg.herokuapp.com/index)
 
-- 💬 Ask me about **Python, Django, ReactJs and Flutter**
+- 💬 Ask me about **Python, Django and ReactJs**
 
 - 📫 How to reach me **akvermaav629@gmail.com**
 
