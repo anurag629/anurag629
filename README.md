@@ -58,15 +58,6 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Projects:</h3>
-<p align="center">
-  <h4 align="left">Blogging Website </h4>
-  [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
-  https://youtu.be/yKR-fc6k7k0
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://egblogg.herokuapp.com" target="_blank" rel="noreferrer"> <img src="picture/blogging-website" alt="Blogging Website" width="40" height="40"/> </a> 
-</p>
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
