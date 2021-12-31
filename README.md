@@ -61,6 +61,7 @@
 <h3 align="left">Projects:</h3>
 <p align="center">
   <h4 align="left">Blogging Website </h4>
+  https://img.youtube.com/vi/yKR-fc6k7k0/maxresdefault.jpg
   https://youtu.be/yKR-fc6k7k0
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
