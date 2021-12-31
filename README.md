@@ -61,9 +61,7 @@
 <h3 align="left">Projects:</h3>
 <p align="center">
   <h4 align="left">Blogging Website </h4>
-  <video width="300" height="200" autoplay="autoplay">
-    <source src="video/blogging-website.mp4" type="video/mp4" />
-  </video>
+  https://youtu.be/yKR-fc6k7k0
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://egblogg.herokuapp.com" target="_blank" rel="noreferrer"> <img src="picture/blogging-website" alt="Blogging Website" width="40" height="40"/> </a> 
