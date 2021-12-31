@@ -16,7 +16,7 @@
 - 📫 How to reach me **akvermaav629@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
 <a href="https://twitter.com/anurag_629" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anurag_629" height="30" width="40" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/anurag629" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag629" height="30" width="40" /></a>
@@ -58,7 +58,21 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
+<h3 align="left">Projects:</h3>
+<p align="center">
+  <h4 align="left">Blogging Website </h4>
+  <video width="300" height="200" autoplay="autoplay">
+    <source src="video/blogging-website.mp4" type="video/mp4" />
+  </video>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://egblogg.herokuapp.com" target="_blank" rel="noreferrer"> <img src="picture/blogging-website" alt="Blogging Website" width="40" height="40"/> </a> 
+</p>
 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anurag629&show_icons=true&locale=en&layout=compact" alt="anurag629" />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag629&show_icons=true&locale=en" alt="anurag629" /></p>
