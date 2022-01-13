@@ -15,6 +15,15 @@
 
 - 📫 How to reach me **akvermaav629@gmail.com**
 
+
+<h2 align="center"> Random Joke Generator</h2>
+<p align="center"
+  
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+</p>
+
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anurag_629" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anurag_629" height="30" width="40" /></a>
@@ -65,8 +74,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anurag629&count_private=true&show_icons=true&locale=en&layout=compact" alt="anurag629" />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag629&count_private=true&show_icons=true&locale=en" alt="anurag629" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anurag629&count_private=true&" alt="anurag629" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag629&count_private=true&show_icons=true&locale=en" alt="anurag629" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anurag629&count_private=true&" alt="anurag629" /></p>
 
 
