@@ -66,9 +66,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anurag629&count_private=true&show_icons=true&locale=en&layout=compact" alt="anurag629" />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag629&count_private=true&show_icons=true&locale=en" alt="anurag629" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anurag629&" alt="anurag629" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anurag629&count_private=true&" alt="anurag629" /></p>
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=anurag629&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag629&langs_count=5&theme=tokyonight)]()
 
