@@ -67,4 +67,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anurag629&show_icons=true&locale=en&layout=compact" alt="anurag629" />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag629&show_icons=true&locale=en" alt="anurag629" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anurag629&" alt="anurag629" /></p>
+![](https://github.com/anurag629/github-stats/blob/master/generated/overview.svg)
 
