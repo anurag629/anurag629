@@ -3,15 +3,15 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=anurag629&label=Profile%20views&color=0e75b6&style=flat" alt="anurag629" /> </p>
 
-- 🔭 I’m currently working on personal project [azblog](https://github.com/anurag629/azblog)
+- 🔭 I’m currently working on personal project [chat_app](https://github.com/anurag629/chat_app)
 
-- 🌱 I’m currently learning **ReactJs and Flutter**
+- 🌱 I’m currently learning **ReactJs and Machine Learning**
 
-- 🤝 I’m looking for help with [azblog](https://github.com/anurag629/azblog)
+- 🤝 I’m looking for help with [chat_app](https://github.com/anurag629/chat_app)
 
-- 📝 I regularly write articles on [https://egblog.me](https://egblogg.herokuapp.com/index)
+- 📝 I regularly write articles on [https://egblog.me](https://egblog.me)
 
-- 💬 Ask me about **Python, Django and ReactJs**
+- 💬 Ask me about **Python, Django, ReactJs and ML**
 
 - 📫 How to reach me **akvermaav629@gmail.com**
 
