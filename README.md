@@ -80,4 +80,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anurag629&count_private=true&" alt="anurag629" /></p>
 
 
-<h2 align="center"> 😇 Hope you followed me 🥰  </h2>
+<h1 align="center"> 😇 Hope you followed me 🥰  </h1>
