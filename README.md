@@ -1,30 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anurag Verma</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anurag629&label=Profile%20views&color=0e75b6&style=flat" alt="anurag629" /> </p>
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anurag629" alt="anurag629" /></a> </p>
-
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-
-
-- 🔭 I’m currently working on personal project [chat_app](https://github.com/anurag629/chat_app)
-
-- 🌱 I’m currently learning **Flutter and Machine Learning**
-
-- 🤝 I’m looking for help with [chat_app](https://github.com/anurag629/chat_app)
-
-- 📝 I regularly write articles on [https://egblog.me](https://egblog.me)
-
-- 💬 Ask me about **Python, Django, Flutter, ML/AI and Deep Learning**
+- 💬 Ask me about **Python, ML/AI and Deep Learning**
 
 - 📫 How to reach me **akvermaav629@gmail.com**
 
