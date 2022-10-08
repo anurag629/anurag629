@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anurag Verma</h1>
 
-- 💬 Ask me about **Python, ML/AI and Deep Learning**
 
-- 📫 How to reach me **akvermaav629@gmail.com**
+<h3 align="center">💬 Ask me about <code> Python, ML/AI and Deep Learning </code></h3>
+<h3 align="center">📫 How to reach me <code> akvermaav629@gmail.com </code></h3>
+
 
 
 <h2 align="center"> Joke for you </h2>
