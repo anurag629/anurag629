@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anurag Verma</h1>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anurag629&label=Profile%20views&color=0e75b6&style=flat" alt="anurag629" /> </p>
+
 
 <h3 align="center">💬 Ask me about <code> Python, ML/AI and Deep Learning </code></h3>
 <h3 align="center">📫 How to reach me <code> akvermaav629@gmail.com </code></h3>
@@ -98,6 +100,12 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anurag629&count_private=true&show_icons=true&locale=en&layout=compact" alt="anurag629" />
 </p>
 
+<p align="center"> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag629&show_icons=true&locale=en" alt="anurag629" />
+</p>
 
+<p align="center"> 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anurag629&" alt="anurag629" />
+</p>
 
 <h1 align="center"> 😇 Hope you followed me 🥰  </h1>
