@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anurag629&label=Profile%20views&color=0e75b6&style=flat" alt="anurag629" /> </p>
 
 
-<h3 align="center">💬 Ask me about <code> Python, Deep Learning and MLOps. </code></h3>
+<h3 align="center">💬 Ask me about <code> Python, Deep Learning, MLOps and Open Source. </code></h3>
 <h3 align="center">📫 How to reach me <code> akvermaav629@gmail.com </code></h3>
 
 
