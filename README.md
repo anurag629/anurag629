@@ -5,6 +5,13 @@
 
 <h3 align="center">💬 Ask me about <code> Python, Deep Learning, MLOps and Open Source. </code></h3>
 <h3 align="center">📫 How to reach me <code> akvermaav629@gmail.com </code></h3>
+<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">📝 I regularly write articles on [ hashnode ](https://anurag629.hashnode.dev/) and [ dev.to ](https://dev.to/anurag629) </h3>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 
 
@@ -14,6 +21,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 </p>
+
 
 
   
