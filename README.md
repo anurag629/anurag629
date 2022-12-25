@@ -9,11 +9,6 @@
 <h3 align="center">📝 I regularly write articles on https://anurag629.hashnode.dev/ and https://dev.to/anurag629 </h3>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-
 
 <h2 align="center"> Joke for you </h2>
 <p align="center"
@@ -111,5 +106,14 @@
 <p align="center"> 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anurag629&" alt="anurag629" />
 </p>
+
+
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
+
 
 <h1 align="center"> 😇 Hope you followed me 🥰  </h1>
