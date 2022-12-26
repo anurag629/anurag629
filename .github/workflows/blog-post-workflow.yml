@@ -15,4 +15,4 @@ jobs:
         with:
 
 
-          feed_list: "https://dev.to/feed/anurag629,https://@anurag629.hashnode.dev/rss.xml"
+          feed_list: "https://dev.to/feed/anurag629"
