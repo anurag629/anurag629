@@ -110,11 +110,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to write a research paper in artificial intelligence, machine learning, and deep learning field step-by-step guidance.](https://anurag629.hashnode.dev/how-to-write-a-research-paper-in-artificial-intelligence-machine-learning-and-deep-learning-field-step-by-step-guidance)
 - [How to write a research paper in artificial intelligence, machine learning, and deep learning field step-by-step guidance.](https://dev.to/anurag629/how-to-write-a-research-paper-in-artificial-intelligence-machine-learning-and-deep-learning-field-step-by-step-guidance-2o3a)
-- [Time series forecasting of stock data using a deep learning model.](https://anurag629.hashnode.dev/time-series-forecasting-of-stock-data-using-a-deep-learning-model)
 - [Time series forecasting of stock data using a deep learning model.](https://dev.to/anurag629/time-series-forecasting-of-stock-data-using-a-deep-learning-model-16ke)
-- [Add app icon in flutter mobile app](https://anurag629.hashnode.dev/add-app-icon-in-flutter-mobile-app)
+- [Add app icon in flutter mobile app](https://dev.to/anurag629/add-app-icon-in-flutter-mobile-app-1b72)
+- [How to save trained model in tensorflow ?](https://dev.to/anurag629/how-to-save-trained-model-in-tensorflow--2eg6)
+- [Sequential API keras tensorflow](https://dev.to/anurag629/sequential-api-keras-tensorflow-1b6m)
 <!-- BLOG-POST-LIST:END -->
 
 
