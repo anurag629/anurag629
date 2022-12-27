@@ -110,11 +110,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Perform multiple tasks concurrently in Python: &quot;Asynchronous Programming in Python with Asyncio&quot;](https://dev.to/anurag629/perform-multiple-tasks-concurrently-in-python-asynchronous-programming-in-python-with-asyncio-43hp)
 - [Gender Determination with Morphometry of Eyes using deep learning model.](https://dev.to/anurag629/gender-determination-with-morphometry-of-eyes-using-deep-learning-model-5f83)
 - [How to write a research paper in artificial intelligence, machine learning, and deep learning field step-by-step guidance.](https://dev.to/anurag629/how-to-write-a-research-paper-in-artificial-intelligence-machine-learning-and-deep-learning-field-step-by-step-guidance-2o3a)
 - [Time series forecasting of stock data using a deep learning model.](https://dev.to/anurag629/time-series-forecasting-of-stock-data-using-a-deep-learning-model-16ke)
 - [Add app icon in flutter mobile app](https://dev.to/anurag629/add-app-icon-in-flutter-mobile-app-1b72)
-- [How to save trained model in tensorflow ?](https://dev.to/anurag629/how-to-save-trained-model-in-tensorflow--2eg6)
 <!-- BLOG-POST-LIST:END -->
 
 
