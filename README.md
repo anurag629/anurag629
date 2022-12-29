@@ -110,11 +110,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Data detective: Tips and tricks for conducting effective exploratory data analysis](https://dev.to/anurag629/data-detective-tips-and-tricks-for-conducting-effective-exploratory-data-analysis-184c)
 - [&quot;The Power of Bit Manipulation: How to Solve Problems Efficiently&quot;](https://dev.to/anurag629/the-power-of-bit-manipulation-how-to-solve-problems-efficiently-3p1h)
 - [Perform multiple tasks concurrently in Python: &quot;Asynchronous Programming in Python with Asyncio&quot;](https://dev.to/anurag629/perform-multiple-tasks-concurrently-in-python-asynchronous-programming-in-python-with-asyncio-43hp)
 - [Gender Determination with Morphometry of Eyes using deep learning model.](https://dev.to/anurag629/gender-determination-with-morphometry-of-eyes-using-deep-learning-model-5f83)
 - [How to write a research paper in artificial intelligence, machine learning, and deep learning field step-by-step guidance.](https://dev.to/anurag629/how-to-write-a-research-paper-in-artificial-intelligence-machine-learning-and-deep-learning-field-step-by-step-guidance-2o3a)
-- [Time series forecasting of stock data using a deep learning model.](https://dev.to/anurag629/time-series-forecasting-of-stock-data-using-a-deep-learning-model-16ke)
 <!-- BLOG-POST-LIST:END -->
 
 
