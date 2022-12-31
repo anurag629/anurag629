@@ -110,11 +110,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering OpenCV: A Comprehensive Introduction to Computer Vision with Python](https://dev.to/anurag629/mastering-opencv-a-comprehensive-introduction-to-computer-vision-with-python-27j1)
 - [Divide and Conquer: A powerful strategy for solving problems](https://dev.to/anurag629/divide-and-conquer-a-powerful-strategy-for-solving-problems-e45)
 - [Data detective: Tips and tricks for conducting effective exploratory data analysis](https://dev.to/anurag629/data-detective-tips-and-tricks-for-conducting-effective-exploratory-data-analysis-184c)
 - [&quot;The Power of Bit Manipulation: How to Solve Problems Efficiently&quot;](https://dev.to/anurag629/the-power-of-bit-manipulation-how-to-solve-problems-efficiently-3p1h)
 - [Perform multiple tasks concurrently in Python: &quot;Asynchronous Programming in Python with Asyncio&quot;](https://dev.to/anurag629/perform-multiple-tasks-concurrently-in-python-asynchronous-programming-in-python-with-asyncio-43hp)
-- [Gender Determination with Morphometry of Eyes using deep learning model.](https://dev.to/anurag629/gender-determination-with-morphometry-of-eyes-using-deep-learning-model-5f83)
 <!-- BLOG-POST-LIST:END -->
 
 
