@@ -8,6 +8,11 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
+<p align="center"
+<a href="https://app.daily.dev/anurag629"><img src="https://api.daily.dev/devcards/97c929a486454141bc55b6832ebe1c89.png?r=w2h" width="400" alt="Anurag verma's Dev Card"/></a>
+</p>
+
+
 
 <h2 align="center"> Joke for you </h2>
 <p align="center"
