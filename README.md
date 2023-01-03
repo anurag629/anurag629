@@ -9,7 +9,7 @@
 
 
 <p align="center"
-<a href="https://app.daily.dev/anurag629"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Anurag Verma's Dev Card"/></a>
+<a href="https://app.daily.dev/anurag629"><img src="https://github.com/anurag629/anurag629/blob/master/devcard.svg" width="400" alt="Anurag Verma's Dev Card"/></a>
 </p>
 
 
