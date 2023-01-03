@@ -118,9 +118,9 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-
-<a href="https://www.buymeacoffee.com/anurag629" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
+<p align="center"> 
+<a href="https://www.buymeacoffee.com/anurag629" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="60" width="250"></a>
+</p>
 
 
 <h1 align="center"> 😇 Hope you followed me 🥰  </h1>
