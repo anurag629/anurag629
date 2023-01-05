@@ -115,11 +115,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Complete Data Science Roadmap/ Bootcamp from noob to expert.](https://dev.to/anurag629/complete-data-science-roadmap-bootcamp-from-noob-to-expert-4ee2)
 - [Regression Modeling 101: Understanding Different Types of Models and How to Choose the Right One](https://dev.to/anurag629/a-comprehensive-guide-to-regression-modeling-types-techniques-and-applications-7nb)
 - [The Power of List Comprehensions in Python](https://dev.to/anurag629/the-power-of-list-comprehensions-in-python-31l7)
 - [Exploring the Intersection of AI and AR/VR Technology](https://dev.to/anurag629/exploring-the-intersection-of-ai-and-arvr-technology-509j)
 - [Unraveling the Confusion: A Primer on AI, ML, and DL](https://dev.to/anurag629/unraveling-the-confusion-a-primer-on-ai-ml-and-dl-5eha)
-- [Mastering OpenCV: A Comprehensive Introduction to Computer Vision with Python](https://dev.to/anurag629/mastering-opencv-a-comprehensive-introduction-to-computer-vision-with-python-27j1)
 <!-- BLOG-POST-LIST:END -->
 
 
