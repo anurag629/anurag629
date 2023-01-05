@@ -5,7 +5,7 @@
 
 <h3 align="center">💬 Ask me about <code> Python, Deep Learning, MLOps and Open Source. </code></h3>
 <h3 align="center">📫 How to reach me <code> akvermaav629@gmail.com </code></h3>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 
 <p align="center"
