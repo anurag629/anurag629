@@ -115,11 +115,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [OOP in Python: A Practical Guide](https://dev.to/anurag629/oop-in-python-a-practical-guide-10mj)
 - [Take Your Python Skills to the Next Level with Built-in Data Structures](https://dev.to/anurag629/take-your-python-skills-to-the-next-level-with-built-in-data-structures-5ec7)
 - [Master the Basics of Python: A Step-by-Step Guide](https://dev.to/anurag629/master-the-basics-of-python-a-step-by-step-guide-16je)
 - [Complete Data Science Roadmap/ Bootcamp from noob to expert.](https://dev.to/anurag629/complete-data-science-roadmap-bootcamp-from-noob-to-expert-4ee2)
 - [Regression Modeling 101: Understanding Different Types of Models and How to Choose the Right One](https://dev.to/anurag629/a-comprehensive-guide-to-regression-modeling-types-techniques-and-applications-7nb)
-- [The Power of List Comprehensions in Python](https://dev.to/anurag629/the-power-of-list-comprehensions-in-python-31l7)
 <!-- BLOG-POST-LIST:END -->
 
 
