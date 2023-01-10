@@ -115,11 +115,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Pandas: A Comprehensive Guide with Exercises](https://dev.to/anurag629/mastering-pandas-a-comprehensive-guide-with-exercises-5bn8)
 - [NumPy 101: A Beginner&#39;s Guide to Data Science with Python](https://dev.to/anurag629/numpy-101-a-beginners-guide-to-data-science-with-python-49an)
 - [OOP in Python: A Practical Guide](https://dev.to/anurag629/oop-in-python-a-practical-guide-10mj)
 - [Take Your Python Skills to the Next Level with Built-in Data Structures](https://dev.to/anurag629/take-your-python-skills-to-the-next-level-with-built-in-data-structures-5ec7)
 - [Master the Basics of Python: A Step-by-Step Guide](https://dev.to/anurag629/master-the-basics-of-python-a-step-by-step-guide-16je)
-- [Complete Data Science Roadmap/ Bootcamp from noob to expert.](https://dev.to/anurag629/complete-data-science-roadmap-bootcamp-from-noob-to-expert-4ee2)
 <!-- BLOG-POST-LIST:END -->
 
 
