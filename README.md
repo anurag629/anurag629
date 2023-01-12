@@ -115,11 +115,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding the basics and advanced concepts of RDBMS and SQL for data science and analysis](https://dev.to/anurag629/understanding-the-basics-and-advanced-concepts-of-rdbms-and-sql-for-data-science-and-analysis-5h4l)
 - [Exploring Different Types of Plots, Best Practices, and Tips for Effective Data Visualization](https://dev.to/anurag629/exploring-different-types-of-plots-best-practices-and-tips-for-effective-data-visualization-ina)
 - [Mastering Pandas: A Comprehensive Guide with Exercises](https://dev.to/anurag629/mastering-pandas-a-comprehensive-guide-with-exercises-5bn8)
 - [NumPy 101: A Beginner&#39;s Guide to Data Science with Python](https://dev.to/anurag629/numpy-101-a-beginners-guide-to-data-science-with-python-49an)
 - [OOP in Python: A Practical Guide](https://dev.to/anurag629/oop-in-python-a-practical-guide-10mj)
-- [Take Your Python Skills to the Next Level with Built-in Data Structures](https://dev.to/anurag629/take-your-python-skills-to-the-next-level-with-built-in-data-structures-5ec7)
 <!-- BLOG-POST-LIST:END -->
 
 
