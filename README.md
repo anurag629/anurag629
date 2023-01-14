@@ -115,11 +115,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Statistics for data science with practice](https://dev.to/anurag629/statistics-for-data-science-with-practice-27h6)
 - [Linear Algebra for Data Science: Understanding and Applying Vectors, Matrices and their Operations using Numpy](https://dev.to/anurag629/linear-algebra-for-data-science-understanding-and-applying-vectors-matrices-and-their-operations-using-numpy-5a7m)
 - [Understanding the basics and advanced concepts of RDBMS and SQL for data science and analysis](https://dev.to/anurag629/understanding-the-basics-and-advanced-concepts-of-rdbms-and-sql-for-data-science-and-analysis-5h4l)
 - [Exploring Different Types of Plots, Best Practices, and Tips for Effective Data Visualization](https://dev.to/anurag629/exploring-different-types-of-plots-best-practices-and-tips-for-effective-data-visualization-ina)
 - [Mastering Pandas: A Comprehensive Guide with Exercises](https://dev.to/anurag629/mastering-pandas-a-comprehensive-guide-with-exercises-5bn8)
-- [NumPy 101: A Beginner&#39;s Guide to Data Science with Python](https://dev.to/anurag629/numpy-101-a-beginners-guide-to-data-science-with-python-49an)
 <!-- BLOG-POST-LIST:END -->
 
 
