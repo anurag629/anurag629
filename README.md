@@ -115,11 +115,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unsupervised Learning: Techniques, Types, and Applications](https://dev.to/anurag629/unsupervised-learning-techniques-types-and-applications-48kk)
 - [Supervised Learning](https://dev.to/anurag629/supervised-learning-4o1i)
 - [Introduction to machine learning](https://dev.to/anurag629/introduction-to-machine-learning-2fd5)
 - [Calculus for Data Science: An Introduction](https://dev.to/anurag629/calculus-for-data-science-an-introduction-33lm)
 - [Probability for data science](https://dev.to/anurag629/probability-for-data-science-134e)
-- [Statistics for data science with practice](https://dev.to/anurag629/statistics-for-data-science-with-practice-27h6)
 <!-- BLOG-POST-LIST:END -->
 
 
