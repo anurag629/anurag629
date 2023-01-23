@@ -115,11 +115,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Linear Regression in Python: From Data to Model](https://dev.to/anurag629/linear-regression-in-python-from-data-to-model-3m34)
 - [Reinforcement Learning: A Great Introduction](https://dev.to/anurag629/reinforcement-learning-a-great-introduction-3c24)
 - [Unsupervised Learning: Techniques, Types, and Applications](https://dev.to/anurag629/unsupervised-learning-techniques-types-and-applications-48kk)
 - [Supervised Learning](https://dev.to/anurag629/supervised-learning-4o1i)
 - [Introduction to machine learning](https://dev.to/anurag629/introduction-to-machine-learning-2fd5)
-- [Calculus for Data Science: An Introduction](https://dev.to/anurag629/calculus-for-data-science-an-introduction-33lm)
 <!-- BLOG-POST-LIST:END -->
 
 
