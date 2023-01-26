@@ -115,11 +115,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Bias vs Variance: The Key to Successful Predictive Modeling](https://dev.to/anurag629/bias-vs-variance-the-key-to-successful-predictive-modeling-mbp)
 - [Predicting Medical Costs using Multivariate Linear Regression in Python](https://dev.to/anurag629/predicting-medical-costs-using-multivariate-linear-regression-in-python-440l)
 - [Transforming Categorical Data: A Practical Guide to Handling Non-Numerical Variables for Machine Learning Algorithms.](https://dev.to/anurag629/transforming-categorical-data-a-practical-guide-to-handling-non-numerical-variables-for-machine-learning-algorithms-cld)
 - [Linear Regression in Python: From Data to Model](https://dev.to/anurag629/linear-regression-in-python-from-data-to-model-3m34)
 - [Reinforcement Learning: A Great Introduction](https://dev.to/anurag629/reinforcement-learning-a-great-introduction-3c24)
-- [Unsupervised Learning: Techniques, Types, and Applications](https://dev.to/anurag629/unsupervised-learning-techniques-types-and-applications-48kk)
 <!-- BLOG-POST-LIST:END -->
 
 
