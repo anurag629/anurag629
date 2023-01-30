@@ -115,11 +115,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Uncovering the Best Email Spam Classifier: A Comparative Study of Machine Learning Algorithms](https://dev.to/anurag629/uncovering-the-best-email-spam-classifier-a-comparative-study-of-machine-learning-algorithms-118l)
 - [Predicting Boston Housing Prices using Regression Models](https://dev.to/anurag629/predicting-boston-housing-prices-using-regression-models-2258)
 - [10 Techniques for Improving Machine Learning Models](https://dev.to/anurag629/10-techniques-for-improving-machine-learning-models-18k9)
 - [Evaluation Metrics for Classification and Regression: A Comprehensive Guide](https://dev.to/anurag629/evaluation-metrics-for-classification-and-regression-a-comprehensive-guide-47hb)
 - [Bias vs Variance: The Key to Successful Predictive Modeling](https://dev.to/anurag629/bias-vs-variance-the-key-to-successful-predictive-modeling-mbp)
-- [Predicting Medical Costs using Multivariate Linear Regression in Python](https://dev.to/anurag629/predicting-medical-costs-using-multivariate-linear-regression-in-python-440l)
 <!-- BLOG-POST-LIST:END -->
 
 
