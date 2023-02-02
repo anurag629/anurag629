@@ -115,11 +115,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Predicting Diabetes Outcomes with Logistic Regression: A Hands-On Guide](https://dev.to/anurag629/predicting-diabetes-outcomes-with-logistic-regression-a-hands-on-guide-44e5)
 - [KNN &lpar;K-nearest neighbors&rpar; Classification](https://dev.to/anurag629/knn-k-nearest-neighbors-classification-4ha1)
 - [The K-Nearest Neighbors Algorithm for regression and classification](https://dev.to/anurag629/the-k-nearest-neighbors-algorithm-for-regression-and-classification-jgo)
 - [Uncovering the Best Email Spam Classifier: A Comparative Study of Machine Learning Algorithms](https://dev.to/anurag629/uncovering-the-best-email-spam-classifier-a-comparative-study-of-machine-learning-algorithms-118l)
 - [Predicting Boston Housing Prices using Regression Models](https://dev.to/anurag629/predicting-boston-housing-prices-using-regression-models-2258)
-- [10 Techniques for Improving Machine Learning Models](https://dev.to/anurag629/10-techniques-for-improving-machine-learning-models-18k9)
 <!-- BLOG-POST-LIST:END -->
 
 
