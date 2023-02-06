@@ -115,11 +115,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Clustering Algorithms: Understanding Types, Applications, and When to Use Them](https://dev.to/anurag629/clustering-algorithms-understanding-types-applications-and-when-to-use-them-43ig)
 - [Time Series Prediction](https://dev.to/anurag629/time-series-prediction-143)
 - [Decision Trees: Advantages, Disadvantages, and Applications](https://dev.to/anurag629/decision-trees-advantages-disadvantages-and-applications-25b2)
 - [Support Vector Machines &lpar;SVM&rpar; Supervised Machine Learning](https://dev.to/anurag629/support-vector-machines-svm-supervised-machine-learning-3lfo)
 - [Predicting Diabetes Outcomes with Logistic Regression: A Hands-On Guide](https://dev.to/anurag629/predicting-diabetes-outcomes-with-logistic-regression-a-hands-on-guide-44e5)
-- [KNN &lpar;K-nearest neighbors&rpar; Classification](https://dev.to/anurag629/knn-k-nearest-neighbors-classification-4ha1)
 <!-- BLOG-POST-LIST:END -->
 
 
