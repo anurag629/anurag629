@@ -99,6 +99,17 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C177%20hrs%2025%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20lakh%20lines%20of%20code-blue)
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p align="center"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anurag629&count_private=true&show_icons=true&locale=en&layout=compact" alt="anurag629" />
 </p>
