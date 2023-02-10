@@ -126,11 +126,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [GridSearchCV in scikit-learn: A Comprehensive Guide](https://dev.to/anurag629/gridsearchcv-in-scikit-learn-a-comprehensive-guide-2a72)
 - [Sentiment Analysis of Twitter Data using Naive Bayes Algorithm](https://dev.to/anurag629/sentiment-analysis-of-twitter-data-using-naive-bayes-algorithm-2b1f)
 - [Centroid-based Clustering: A Powerful Machine Learning Technique for Partitioning Datasets](https://dev.to/anurag629/centroid-based-clustering-a-powerful-machine-learning-technique-for-partitioning-datasets-41im)
 - [Clustering Algorithms: Understanding Types, Applications, and When to Use Them](https://dev.to/anurag629/clustering-algorithms-understanding-types-applications-and-when-to-use-them-43ig)
 - [Time Series Prediction](https://dev.to/anurag629/time-series-prediction-143)
-- [Decision Trees: Advantages, Disadvantages, and Applications](https://dev.to/anurag629/decision-trees-advantages-disadvantages-and-applications-25b2)
 <!-- BLOG-POST-LIST:END -->
 
 
