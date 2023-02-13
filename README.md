@@ -126,11 +126,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Random Forest Algorithms&#39; Advantages for Greener Machine Learning](https://dev.to/anurag629/random-forest-algorithms-advantages-for-greener-machine-learning-5de9)
 - [GridSearchCV in scikit-learn: A Comprehensive Guide](https://dev.to/anurag629/gridsearchcv-in-scikit-learn-a-comprehensive-guide-2a72)
 - [Sentiment Analysis of Twitter Data using Naive Bayes Algorithm](https://dev.to/anurag629/sentiment-analysis-of-twitter-data-using-naive-bayes-algorithm-2b1f)
 - [Centroid-based Clustering: A Powerful Machine Learning Technique for Partitioning Datasets](https://dev.to/anurag629/centroid-based-clustering-a-powerful-machine-learning-technique-for-partitioning-datasets-41im)
 - [Clustering Algorithms: Understanding Types, Applications, and When to Use Them](https://dev.to/anurag629/clustering-algorithms-understanding-types-applications-and-when-to-use-them-43ig)
-- [Time Series Prediction](https://dev.to/anurag629/time-series-prediction-143)
 <!-- BLOG-POST-LIST:END -->
 
 
