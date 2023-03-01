@@ -126,11 +126,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Use the json module to easily serialize and deserialize JSON data in Python.](https://dev.to/anurag629/use-the-json-module-to-easily-serialize-and-deserialize-json-data-in-python-3j0m)
 - [Variables and Data Type in Python](https://dev.to/anurag629/variables-and-data-type-in-python-29cg)
 - [Overfitting and Underfitting in Machine learning](https://dev.to/anurag629/overfitting-and-underfitting-in-machine-learning-3kjn)
 - [An exploratory data analysis using scatter plots and line of best fit](https://dev.to/anurag629/an-exploratory-data-analysis-using-scatter-plots-and-line-of-best-fit-42kk)
 - [Dimensionality Reduction: An Introduction to Methods and Applications](https://dev.to/anurag629/dimensionality-reduction-an-introduction-to-methods-and-applications-i51)
-- [Random Forest Algorithms&#39; Advantages for Greener Machine Learning](https://dev.to/anurag629/random-forest-algorithms-advantages-for-greener-machine-learning-5de9)
 <!-- BLOG-POST-LIST:END -->
 
 
