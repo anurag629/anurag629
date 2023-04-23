@@ -1,0 +1,5 @@
+﻿Name,About Project - 2,Created,Github Link,Project Type,Screenshots,Technology Used
+CaptivateCartoon,This is a simple web application that allows you to extract details from images using the DeepFace API and then pass that details with a prompt to get the caption and story based on the face image using ChatGPT API. The project is built using FastAPI as the backend framework and React as the frontend framework.,"April 4, 2023 6:52 PM",https://github.com/anurag629/CaptivateCartoon,"Machine Learning, Web Development",,"FastAPI, Git, Python, React"
+E-Commerce API,API for E-Commerce website.,"April 4, 2023 6:52 PM",https://github.com/anurag629/Ecommerce-API,Web Development,,"Django, Djano React Framework, Git, Python"
+Snake Game,Snake game which is build using C programming language.,"April 5, 2023 5:07 PM",https://github.com/anurag629/Snake-Game-C,Command Line,,"C, Makefile"
+Cat-VS-Dog Classification,,"April 5, 2023 5:11 PM",,,,
