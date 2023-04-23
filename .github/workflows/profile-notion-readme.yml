@@ -1,52 +1,17 @@
-name: update-readme workflow
+name: Export my notion workspace
 
-on: workflow_dispatch
+on:
+  schedule:
+    - cron: '*/1 * * * *'  # Call the export every 6 hours
+  workflow_dispatch: {}
 
 jobs:
-  update-readme:
-    name: Update README notion->github
+  export:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-
-      - name: Setup Java
-        uses: actions/setup-java@v2
+      - uses: anurag629/anurag629@notion
         with:
-          java-version: 11
-          distribution: 'zulu'
-
-      - name: Setup Clojure
-        uses: DeLaGuardo/setup-clojure@3.4
-        with:
-          lein: 2.9.1
-
-      - name: create branch
-        uses: peterjgrainger/action-create-branch@v2.0.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          branch: 'documentation/update-readme'
-
-      - name: notion-to-md
-        env:
-          NOTION_PAGE_ID: ${{ secrets.page_id }}
-          NOTION_API_SECRET: ${{ secrets.NOTION_API_SECRET }}
-        run: |
-          lein notion-to-md
-
-      - name: push to built branch
-        uses: Automattic/action-commit-to-branch@master
-        with:
-          branch: 'documentation/update-readme'
-          commit_message: 'Imported README from Notion'
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: pull-request
-        uses: repo-sync/pull-request@v2
-        with:
-          source_branch: "documentation/update-readme"        
-          destination_branch: "development"                  
-          pr_title: "Update README (imported from notion)"
-          pr_body: ":crown: *Automated PR via github actions*"
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          pages: "Anurag-Verma-93cc104e6721414fb735282d38e8cc3d"  # Pages IDs identified in (step 2)  
+          output-dir: notion-backup
+          notion-token: ${{ secrets.NOTION_TOKEN }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
