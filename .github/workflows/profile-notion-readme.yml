@@ -9,7 +9,7 @@ jobs:
   export:
     runs-on: ubuntu-latest
     steps:
-      - uses: igor-kupczynski/notion-exporter@v1.0.2
+      - uses: anurag629/notion-exporter@v1.0.2
         with:
           pages: "93cc104e6721414fb735282d38e8cc3d"  # Pages IDs identified in (step 2)  
           output-dir: notion-backup
