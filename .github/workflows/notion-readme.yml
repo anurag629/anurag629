@@ -7,11 +7,15 @@ jobs:
   update_learn:
     name: 'Update learn section'
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [10.x, 12.x, 14.x, 16.x, 18.x]
     steps:
       - name: 'Fetching Repository Contents'
         uses: actions/checkout@main
       - name: 'Learn Section Updater'
         uses: 'devorein/github-readme-learn-section-notion@master'
         with:
+          node-version: ${{ matrix.node-version }}
           database_id: '93cc104e6721414fb735282d38e8cc3d'
           token_v2: ${{ secrets.NOTION_TOKEN }} # Required only if your database is private
