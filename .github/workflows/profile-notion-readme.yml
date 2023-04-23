@@ -9,7 +9,7 @@ jobs:
   export:
     runs-on: ubuntu-latest
     steps:
-      - uses: anurag629/anurag629@v1.0.2
+      - uses: anurag629/anurag629@notion
         with:
           pages: "Anurag-Verma-93cc104e6721414fb735282d38e8cc3d"  # Pages IDs identified in (step 2)  
           output-dir: notion-backup
