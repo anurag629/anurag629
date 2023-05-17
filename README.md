@@ -126,11 +126,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Created my own personalblog + portfolio website](https://dev.to/anurag629/created-my-own-personalblog-portfolio-website-1a4)
 - [Setting Up Your Full-Stack Development Environment with Python, Django, and React](https://dev.to/anurag629/setting-up-your-full-stack-development-environment-with-python-django-and-react-1457)
 - [Terms used in Reinforcement Leaning](https://dev.to/anurag629/terms-used-in-reinforcement-leaning-56lo)
 - [Use the json module to easily serialize and deserialize JSON data in Python.](https://dev.to/anurag629/use-the-json-module-to-easily-serialize-and-deserialize-json-data-in-python-3j0m)
 - [Variables and Data Type in Python](https://dev.to/anurag629/variables-and-data-type-in-python-29cg)
-- [Overfitting and Underfitting in Machine learning](https://dev.to/anurag629/overfitting-and-underfitting-in-machine-learning-3kjn)
 <!-- BLOG-POST-LIST:END -->
 
 
