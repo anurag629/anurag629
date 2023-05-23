@@ -129,8 +129,8 @@
 - [Introduction to large language model](https://dev.to/anurag629/introduction-to-large-language-model-2mme)
 - [Plant Diseases Detection using Deep Learning](https://dev.to/anurag629/plant-diseases-detection-using-deep-learning-44o4)
 - [Created my own personalblog + portfolio website](https://dev.to/anurag629/created-my-own-personalblog-portfolio-website-1a4)
-- [Setting Up Your Full-Stack Development Environment with Python, Django, and React](https://dev.to/anurag629/setting-up-your-full-stack-development-environment-with-python-django-and-react-1457)
-- [Terms used in Reinforcement Leaning](https://dev.to/anurag629/terms-used-in-reinforcement-leaning-56lo)
+- [Create a Machine Learning API with FastAPI](https://dev.to/anurag629/create-a-machine-learning-api-with-fastapi-16m8)
+- [A Step-by-Step Guide to Creating a Repository on GitHub](https://dev.to/anurag629/a-step-by-step-guide-to-creating-a-repository-on-github-47a9)
 <!-- BLOG-POST-LIST:END -->
 
 
