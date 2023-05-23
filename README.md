@@ -126,11 +126,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to large language model](https://dev.to/anurag629/introduction-to-large-language-model-2mme)
 - [Plant Diseases Detection using Deep Learning](https://dev.to/anurag629/plant-diseases-detection-using-deep-learning-44o4)
 - [Created my own personalblog + portfolio website](https://dev.to/anurag629/created-my-own-personalblog-portfolio-website-1a4)
 - [Setting Up Your Full-Stack Development Environment with Python, Django, and React](https://dev.to/anurag629/setting-up-your-full-stack-development-environment-with-python-django-and-react-1457)
 - [Terms used in Reinforcement Leaning](https://dev.to/anurag629/terms-used-in-reinforcement-leaning-56lo)
-- [Use the json module to easily serialize and deserialize JSON data in Python.](https://dev.to/anurag629/use-the-json-module-to-easily-serialize-and-deserialize-json-data-in-python-3j0m)
 <!-- BLOG-POST-LIST:END -->
 
 
