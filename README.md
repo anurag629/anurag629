@@ -126,11 +126,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk&#39;s Neuralink Receives FDA Approval for Human Trials](https://dev.to/anurag629/elon-musks-neuralink-receives-fda-approval-for-human-trials-54ll)
 - [Basics of Python - Variables and Data Types](https://dev.to/anurag629/basics-of-python-variables-and-data-types-33nd)
 - [Introduction to large language model](https://dev.to/anurag629/introduction-to-large-language-model-2mme)
 - [Plant Diseases Detection using Deep Learning](https://dev.to/anurag629/plant-diseases-detection-using-deep-learning-44o4)
 - [The Power of Bit Manipulation - Let&#39;s smash some bits!](https://dev.to/anurag629/the-power-of-bit-manipulation-lets-smash-some-bits-2li8)
-- [Created my own personalblog + portfolio website](https://dev.to/anurag629/created-my-own-personalblog-portfolio-website-1a4)
 <!-- BLOG-POST-LIST:END -->
 
 
