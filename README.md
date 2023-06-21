@@ -29,10 +29,15 @@ No activity tracked
 <img align="center" src="https://github-readme-stats-anurag629.vercel.app/api?username=anurag629&show_icons=true&show=reviews&include_all_commits=true" alt="anurag629" />
 </p>
 
+
+<!-- <p align="center"> 
+<img align="center" src="https://github-readme-stats-anurag629.vercel.app/api/wakatime?username=anurag629" alt="anurag629" />
+</p> -->
+
+
 <p align="center"> 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anurag629&count_private=true" alt="anurag629" />
 </p>
-
 
 
 
