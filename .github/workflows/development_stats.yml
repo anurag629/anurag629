@@ -1,5 +1,4 @@
 name: Waka Readme
-
 on:
   schedule:
     - cron: '*/1 * * * *'
@@ -8,10 +7,12 @@ jobs:
   update-readme:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
-      - name: Profile Readme Development Stats
       - uses: anmol098/waka-readme-stats@V3
-      
+
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
