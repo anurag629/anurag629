@@ -15,4 +15,4 @@ jobs:
         with:
 
 
-          feed_list: "https://dev.to/feed/anurag629"
+          feed_list: "https://www.anurag629.club/rss.xml"
