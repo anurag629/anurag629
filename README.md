@@ -117,14 +117,14 @@ No activity tracked
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20lakh%20lines%20of%20code-blue) -->
 
-
+<!-- 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p align="center"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anurag629&count_private=true&show_icons=true&locale=en&layout=compact" alt="anurag629" />
-</p>
+</p> -->
 
 <p align="center"> 
 <img align="center" src="https://github-readme-stats-anurag629.vercel.app/api?username=anurag629&show_icons=true" alt="anurag629" />
