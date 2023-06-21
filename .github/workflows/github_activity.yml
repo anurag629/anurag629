@@ -1,4 +1,4 @@
-name: Update README
+name: GitHub Stats
 on:
   schedule:
     - cron: "*/1 * * * *"
