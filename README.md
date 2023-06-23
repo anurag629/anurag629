@@ -1,18 +1,17 @@
-<h1 align="center">Hi 👋, I'm Anurag Verma</h1>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anurag629&label=Profile%20views&color=0e75b6&style=flat" alt="anurag629" /> </p>
 
-
-<h3 align="center">💬 Ask me about <code> Python, Machine Learning, Deep Learning, MLOps and Open Source. </code></h3>
-<h3 align="center">📫 How to reach me <code> akvermaav629@gmail.com </code></h3>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center">Hi 👋, I'm Anurag Verma</h1>
 
 
-<p align="center"
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/anurag629/anurag629/blob/main/devcard.svg" width="400" alt="Anurag Verma's Dev Card"/></a>
-</p>
+I'm a **Machine Learning Engineer** and **Researcher** from in **India**. I'm currently pursuing my Bachelor's degree in Computer Engineering from Dr. Bhimrao Ambedkar University, Agra. I'm passionate about **Machine Learning**, **Deep Learning**, and **Reinforcement Learning**. I'm a **Kaggle Notebook and Datasets Expert** and **Open Source Contributor**. I'm currently learning **Deep Reinforcement Learning** and **Pytorch**. I'm looking for **Remote Internship** opportunities in **Machine Learning** and **Researcher** roles.
+
+I have a strong background in **math**, **statistics**, and **programming**. I am passionate about translating complex data into actionable insights. I have experience in building machine learning models and data analysis. I am a quick learner and enjoy working in a fast-paced work environment. I am looking for a position where I can apply my skills to real-world problems.
 
 
+
+---
 <!--START_SECTION:waka-->
 
 ```txt
@@ -25,24 +24,9 @@ No activity tracked
 
 
 
-<p align="center"> 
-<img align="center" src="https://github-readme-stats-anurag629.vercel.app/api?username=anurag629&show_icons=true&show=reviews&include_all_commits=true" alt="anurag629" />
-</p>
+---
+# Recent Blog Post
 
-
-<!-- <p align="center"> 
-<img align="center" src="https://github-readme-stats-anurag629.vercel.app/api/wakatime?username=anurag629" alt="anurag629" />
-</p> -->
-
-
-<p align="center"> 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anurag629&count_private=true" alt="anurag629" />
-</p>
-
-
-
-
-# Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Elon Musk&#39;s Neuralink Receives FDA Approval for Human Trials](https://www.anurag629.club/posts/elon-musks-neuralink-receives-fda-approval-for-human-trials/)
 - [Basics of Python - Variables and Data Types](https://www.anurag629.club/posts/python-basics-of-python-variables-and-data-types/)
@@ -54,7 +38,7 @@ No activity tracked
 
 
 
-# Activity
+# Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#82](https://github.com/satnaing/astro-paper/issues/82) in [satnaing/astro-paper](https://github.com/satnaing/astro-paper)
 2. 🗣 Commented on [#3](https://github.com/anurag629/comments/issues/3) in [anurag629/comments](https://github.com/anurag629/comments)
