@@ -1,4 +1,4 @@
-name: GitHub Stats
+name: Recent Github Activity
 on:
   schedule:
     - cron: "*/1 * * * *"

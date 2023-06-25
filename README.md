@@ -22,6 +22,11 @@ Total Time: 0 secs
 No activity tracked
 ```
 
+<img
+  src="https://github.com/anurag629/anurag629/blob/main/images/stat.svg"
+  alt="Anurag Coding Activity"
+/>
+
 
 
 ---
