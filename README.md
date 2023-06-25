@@ -12,15 +12,6 @@ I have a strong background in **math**, **statistics**, and **programming**. I a
 
 
 ---
-<!--START_SECTION:waka-->
-
-```txt
-From: 10 May 2023 - To: 20 June 2023
-
-Total Time: 0 secs
-
-No activity tracked
-```
 
 <img
   src="https://github.com/anurag629/anurag629/blob/main/images/stat.svg"
