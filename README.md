@@ -40,7 +40,7 @@ I have a strong background in **math**, **statistics**, and **programming**. I a
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#82](https://github.com/satnaing/astro-paper/issues/82) in [satnaing/astro-paper](https://github.com/satnaing/astro-paper)
+1. 🗣 Commented on [#5](https://github.com/anurag629/comments/issues/5) in [anurag629/comments](https://github.com/anurag629/comments)
 2. 🗣 Commented on [#3](https://github.com/anurag629/comments/issues/3) in [anurag629/comments](https://github.com/anurag629/comments)
 3. 🗣 Commented on [#3](https://github.com/anurag629/comments/issues/3) in [anurag629/comments](https://github.com/anurag629/comments)
 4. 🗣 Commented on [#3](https://github.com/anurag629/comments/issues/3) in [anurag629/comments](https://github.com/anurag629/comments)
