@@ -13,6 +13,10 @@ I have a strong background in **math**, **statistics**, and **programming**. I a
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
 <img
   src="./images/stat.svg"
   alt="Anurag Coding Activity"
