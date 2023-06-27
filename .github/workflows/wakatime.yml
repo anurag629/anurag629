@@ -1,6 +1,8 @@
-name: WakaTime status update
+name: WakaTime status update 2
 
 on:
+  push:
+    branches: [main]
   schedule:
     # Runs at 12 am  '0 0 * * *'  UTC
     - cron: "1 0 * * *"
@@ -22,6 +24,6 @@ jobs:
           # Branch - newer GitHub repositories have "main" as default branch, change to main in that case, default is master
           BRANCH: "main"
           # Manual Commit messages - write your own messages here
-          COMMIT_MSG: "Automated Coding Activity Update :alien:"
+          COMMIT_MSG: "Automated Coding Activity Update 2 :alien:"
           # Range of fetching data - default is "last_7_days". See https://wakatime.com/developers#stats for more options
           STATS_RANGE: "last_7_days"
