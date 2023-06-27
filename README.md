@@ -10,12 +10,6 @@ I'm a **Machine Learning Engineer** and **Researcher** from in **India**. I'm cu
 I have a strong background in **math**, **statistics**, and **programming**. I am passionate about translating complex data into actionable insights. I have experience in building machine learning models and data analysis. I am a quick learner and enjoy working in a fast-paced work environment. I am looking for a position where I can apply my skills to real-world problems.
 
 
-
----
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ---
 
 <img
