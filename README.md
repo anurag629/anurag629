@@ -32,13 +32,6 @@ Text         0 secs          -------------------------   00.07 %
 
 <!--END_SECTION:waka-->
 
----
-
-<img
-  src="https://github.com/anurag629/anurag629/blob/main/images/stat.svg"
-  alt="Anurag WakaTime Activity"
-/>
-
 
 ---
 # Recent Blog Post
