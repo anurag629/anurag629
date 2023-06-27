@@ -14,7 +14,7 @@ I have a strong background in **math**, **statistics**, and **programming**. I a
 
 <img
   src="https://github.com/anurag629/anurag629/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
+  alt="Anurag WakaTime Activity"
 />
 
 
