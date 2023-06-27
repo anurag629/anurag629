@@ -12,6 +12,24 @@ I have a strong background in **math**, **statistics**, and **programming**. I a
 ---
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 10 May 2023 - To: 26 June 2023
+
+Total Time: 3 hrs 43 mins
+
+Other        2 hrs 37 mins   >>>>>>>>>>>>>>>>>>-------   70.62 %
+Astro        17 mins         >>-----------------------   07.89 %
+Python       16 mins         >>-----------------------   07.40 %
+JavaScript   14 mins         >>-----------------------   06.43 %
+Markdown     11 mins         >------------------------   05.05 %
+TypeScript   3 mins          -------------------------   01.75 %
+Bash         0 secs          -------------------------   00.34 %
+YAML         0 secs          -------------------------   00.28 %
+XML          0 secs          -------------------------   00.17 %
+Text         0 secs          -------------------------   00.07 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
