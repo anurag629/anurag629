@@ -11,6 +11,7 @@ I have a strong background in **math**, **statistics**, and **programming**. I a
 
 ---
 
+# Coding Time 
 <!--START_SECTION:waka-->
 
 ```txt
@@ -50,7 +51,7 @@ Git Config   0 secs          -------------------------   00.01 %
 <!-- BLOG-POST-LIST:END -->
 
 
-
+---
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
@@ -60,6 +61,8 @@ Git Config   0 secs          -------------------------   00.01 %
 4. 🗣 Commented on [#3](https://github.com/anurag629/comments/issues/3) in [anurag629/comments](https://github.com/anurag629/comments)
 5. 🗣 Commented on [#13786](https://github.com/unifyai/ivy/issues/13786) in [unifyai/ivy](https://github.com/unifyai/ivy)
 <!--END_SECTION:activity-->
+
+---
 
 <p align="center"> 
 <a href="https://www.buymeacoffee.com/anurag629" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="60" width="250"></a>
