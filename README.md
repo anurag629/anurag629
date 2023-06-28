@@ -14,7 +14,7 @@ I have a strong background in **math**, **statistics**, and **programming**. I a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 May 2023 - To: 27 June 2023
+From: 20 June 2023 - To: 27 June 2023
 
 Total Time: 16 hrs 32 mins
 
@@ -28,6 +28,10 @@ TypeScript   8 mins          -------------------------   00.89 %
 YAML         8 mins          -------------------------   00.81 %
 TSConfig     7 mins          -------------------------   00.71 %
 Text         5 mins          -------------------------   00.57 %
+JSON         2 mins          -------------------------   00.27 %
+Bash         1 min           -------------------------   00.15 %
+MDX          1 min           -------------------------   00.15 %
+XML          1 min           -------------------------   00.11 %
 ```
 
 <!--END_SECTION:waka-->
