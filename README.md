@@ -5,7 +5,13 @@
 <h1 align="center">Hi 👋, I'm Anurag Verma</h1>
 
 
-I'm a **Machine Learning Engineer** and **Researcher** from in **India**. I'm currently pursuing my Bachelor's degree in Computer Engineering from Dr. Bhimrao Ambedkar University, Agra. I'm passionate about **Machine Learning**, **Deep Learning**, and **Reinforcement Learning**. I'm a **Kaggle Notebook and Datasets Expert** and **Open Source Contributor**. I'm currently learning **Deep Reinforcement Learning** and **Pytorch**. I'm looking for **Remote Internship** opportunities in **Machine Learning** and **Researcher** roles.
+As a dedicated learner, I am always seeking to expand my knowledge in data science and its various applications. My passion lies in uncovering insights from complex datasets, harnessing the power of algorithms, and transforming raw data into meaningful solutions.
+
+I am particularly captivated by the limitless possibilities of deep learning, a field that continuously pushes the boundaries of artificial intelligence. By delving into advanced neural networks and state-of-the-art models, I am constantly honing my skills to unravel the mysteries hidden within vast amounts of data.
+
+Beyond data science, I find inspiration in the fascinating intersection of robotics and AI. Exploring the realms of autonomous systems, human-robot collaboration, and the potential of intelligent machines drives my curiosity. The promise of the Metaverse further ignites my imagination, as I envision a world where virtual and physical realities seamlessly intertwine, opening up new horizons for human-machine interactions.
+
+I am eager to collaborate with like-minded individuals and contribute to the ongoing advancements in these captivating domains. Together, let's navigate the ever-evolving landscapes of data science, deep learning, robotics, and the AI-powered future that awaits us 🚀🌐!
 
 I have a strong background in **math**, **statistics**, and **programming**. I am passionate about translating complex data into actionable insights. I have experience in building machine learning models and data analysis. I am a quick learner and enjoy working in a fast-paced work environment. I am looking for a position where I can apply my skills to real-world problems.
 
