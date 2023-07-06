@@ -21,15 +21,15 @@ I have a strong background in **math**, **statistics**, and **programming**. I a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 June 2023 - To: 05 July 2023
+From: 29 June 2023 - To: 06 July 2023
 
-Total Time: 103 hrs 8 mins
+Total Time: 110 hrs 6 mins
 
-Other        83 hrs 20 mins  >>>>>>>>>>>>>>>>>>>>-----   80.81 %
-Python       11 hrs 27 mins  >>>----------------------   11.11 %
-Markdown     5 hrs 54 mins   >------------------------   05.72 %
-JavaScript   1 hr 32 mins    -------------------------   01.49 %
-Astro        27 mins         -------------------------   00.44 %
+Other        92 hrs 7 mins   >>>>>>>>>>>>>>>>>>>>>----   83.67 %
+Python       10 hrs 48 mins  >>-----------------------   09.82 %
+Markdown     4 hrs 46 mins   >------------------------   04.34 %
+JavaScript   1 hr 19 mins    -------------------------   01.20 %
+Astro        25 mins         -------------------------   00.39 %
 ```
 
 <!--END_SECTION:waka-->
