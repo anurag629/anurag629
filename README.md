@@ -69,9 +69,9 @@ JSON       3 mins          -------------------------   00.06 %
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#87](https://github.com/satnaing/astro-paper/issues/87#issuecomment-1642577683) in [satnaing/astro-paper](https://github.com/satnaing/astro-paper)
-2. ❗ Opened issue [#87](https://github.com/satnaing/astro-paper/issues/87) in [satnaing/astro-paper](https://github.com/satnaing/astro-paper)
-3. 🗣 Commented on [#3](https://github.com/anurag629/comments/issues/3) in [anurag629/comments](https://github.com/anurag629/comments)
+1. 💪 Opened PR [#2](https://github.com/Abhi-gits/Project-IET_TNP_bk/pull/2) in [Abhi-gits/Project-IET_TNP_bk](https://github.com/Abhi-gits/Project-IET_TNP_bk)
+2. 🗣 Commented on [#87](https://github.com/satnaing/astro-paper/issues/87#issuecomment-1642577683) in [satnaing/astro-paper](https://github.com/satnaing/astro-paper)
+3. ❗ Opened issue [#87](https://github.com/satnaing/astro-paper/issues/87) in [satnaing/astro-paper](https://github.com/satnaing/astro-paper)
 4. 🗣 Commented on [#3](https://github.com/anurag629/comments/issues/3) in [anurag629/comments](https://github.com/anurag629/comments)
 5. 🗣 Commented on [#13786](https://github.com/unifyai/ivy/issues/13786) in [unifyai/ivy](https://github.com/unifyai/ivy)
 <!--END_SECTION:activity-->
