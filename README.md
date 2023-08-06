@@ -31,20 +31,22 @@ I have a strong background in **math**, **statistics**, and **programming**. I a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 July 2023 - To: 05 August 2023
+From: 30 July 2023 - To: 06 August 2023
 
-Total Time: 95 hrs 40 mins
+Total Time: 96 hrs 34 mins
 
-Other        71 hrs 56 mins  >>>>>>>>>>>>>>>>>>>------   75.20 %
-Python       12 hrs 21 mins  >>>----------------------   12.92 %
-Markdown     9 hrs 50 mins   >>>----------------------   10.28 %
-Text         1 hr            -------------------------   01.06 %
-JSON         14 mins         -------------------------   00.26 %
+Other        72 hrs 22 mins  >>>>>>>>>>>>>>>>>>>------   74.94 %
+Markdown     10 hrs 36 mins  >>>----------------------   10.99 %
+Python       10 hrs 3 mins   >>>----------------------   10.42 %
+JSON         1 hr 32 mins    -------------------------   01.59 %
+Text         1 hr 1 min      -------------------------   01.06 %
+JavaScript   39 mins         -------------------------   00.68 %
+Bash         5 mins          -------------------------   00.09 %
 CSV          5 mins          -------------------------   00.09 %
 Git Config   4 mins          -------------------------   00.08 %
-Bash         4 mins          -------------------------   00.07 %
 INI          1 min           -------------------------   00.03 %
 TOML         1 min           -------------------------   00.02 %
+CSS          0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
