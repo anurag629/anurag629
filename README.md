@@ -77,11 +77,11 @@ CSS          0 secs          -------------------------   00.00 %
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/tech-bash/Project-IET_TNP_Fr/pull/1) in [tech-bash/Project-IET_TNP_Fr](https://github.com/tech-bash/Project-IET_TNP_Fr)
-2. 💪 Opened PR [#4](https://github.com/Abhi-gits/Project-IET_TNP_bk/pull/4) in [Abhi-gits/Project-IET_TNP_bk](https://github.com/Abhi-gits/Project-IET_TNP_bk)
-3. 💪 Opened PR [#3](https://github.com/Abhi-gits/Project-IET_TNP_bk/pull/3) in [Abhi-gits/Project-IET_TNP_bk](https://github.com/Abhi-gits/Project-IET_TNP_bk)
-4. 💪 Opened PR [#2](https://github.com/Abhi-gits/Project-IET_TNP_bk/pull/2) in [Abhi-gits/Project-IET_TNP_bk](https://github.com/Abhi-gits/Project-IET_TNP_bk)
-5. 🗣 Commented on [#87](https://github.com/satnaing/astro-paper/issues/87#issuecomment-1642577683) in [satnaing/astro-paper](https://github.com/satnaing/astro-paper)
+1. 🗣 Commented on [#1](https://github.com/tech-bash/Project-IET_TNP_Fr/pull/1#issuecomment-1675925148) in [tech-bash/Project-IET_TNP_Fr](https://github.com/tech-bash/Project-IET_TNP_Fr)
+2. 💪 Opened PR [#1](https://github.com/tech-bash/Project-IET_TNP_Fr/pull/1) in [tech-bash/Project-IET_TNP_Fr](https://github.com/tech-bash/Project-IET_TNP_Fr)
+3. 💪 Opened PR [#4](https://github.com/Abhi-gits/Project-IET_TNP_bk/pull/4) in [Abhi-gits/Project-IET_TNP_bk](https://github.com/Abhi-gits/Project-IET_TNP_bk)
+4. 💪 Opened PR [#3](https://github.com/Abhi-gits/Project-IET_TNP_bk/pull/3) in [Abhi-gits/Project-IET_TNP_bk](https://github.com/Abhi-gits/Project-IET_TNP_bk)
+5. 💪 Opened PR [#2](https://github.com/Abhi-gits/Project-IET_TNP_bk/pull/2) in [Abhi-gits/Project-IET_TNP_bk](https://github.com/Abhi-gits/Project-IET_TNP_bk)
 <!--END_SECTION:activity-->
 
 ---
