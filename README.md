@@ -31,23 +31,22 @@ I have a strong background in **math**, **statistics**, and **programming**. I a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 August 2023 - To: 21 August 2023
+From: 15 August 2023 - To: 22 August 2023
 
-Total Time: 112 hrs 41 mins
+Total Time: 103 hrs 36 mins
 
-Other            89 hrs 27 mins  >>>>>>>>>>>>>>>>>>>>-----   79.39 %
-Markdown         14 hrs 54 mins  >>>----------------------   13.23 %
-Python           3 hrs 28 mins   >------------------------   03.09 %
-Prolog           2 hrs 21 mins   >------------------------   02.10 %
-Assembly         35 mins         -------------------------   00.53 %
-Ezhil            26 mins         -------------------------   00.40 %
-Text             23 mins         -------------------------   00.35 %
-ActionScript 3   22 mins         -------------------------   00.33 %
-GDScript         15 mins         -------------------------   00.23 %
-JSON             13 mins         -------------------------   00.20 %
-MySQL            7 mins          -------------------------   00.10 %
-TSQL             2 mins          -------------------------   00.03 %
-Bash             1 min           -------------------------   00.02 %
+Other            85 hrs 55 mins  >>>>>>>>>>>>>>>>>>>>>----   82.93 %
+Markdown         11 hrs 6 mins   >>>----------------------   10.72 %
+Prolog           2 hrs 21 mins   >------------------------   02.28 %
+Python           1 hr 42 mins    -------------------------   01.66 %
+Assembly         35 mins         -------------------------   00.58 %
+Text             29 mins         -------------------------   00.48 %
+Ezhil            26 mins         -------------------------   00.43 %
+ActionScript 3   22 mins         -------------------------   00.36 %
+GDScript         15 mins         -------------------------   00.25 %
+JSON             10 mins         -------------------------   00.17 %
+MySQL            7 mins          -------------------------   00.11 %
+TSQL             2 mins          -------------------------   00.04 %
 ```
 
 <!--END_SECTION:waka-->
