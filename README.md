@@ -7,16 +7,6 @@
 I have a strong background in **math**, **statistics**, and **programming**. I am passionate about translating complex data into actionable insights. I have experience in building machine learning models and data analysis. I am a quick learner and enjoy working in a fast-paced work environment. I am looking for a position where I can apply my skills to real-world problems.
 
 ---
-<p align="center">
-<a href="https://github.com/sudheerj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag629&theme=light&count_private=true&layout=compact" width="205" alt="Anurag's most used languages" />
-</a>
-<a href="https://github.com/sudheerj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag629&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs" width="350" alt="Anurag's github stats"/>
-</a>
-</p>
-
----
 
 # Coding Time 
 <!--START_SECTION:waka-->
