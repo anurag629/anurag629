@@ -64,11 +64,11 @@ YAML           1 min           -------------------------   00.03 %
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/anurag629/BotaniScan/pull/3) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
-2. 💪 Opened PR [#3](https://github.com/anurag629/BotaniScan/pull/3) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
-3. 🎉 Merged PR [#2](https://github.com/anurag629/BotaniScan/pull/2) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
-4. 🎉 Merged PR [#1](https://github.com/anurag629/BotaniScan/pull/1) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
-5. 🗣 Commented on [#889](https://github.com/giscus/giscus/issues/889#issuecomment-1707087149) in [giscus/giscus](https://github.com/giscus/giscus)
+1. 🎉 Merged PR [#4](https://github.com/anurag629/BotaniScan/pull/4) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
+2. 💪 Opened PR [#4](https://github.com/anurag629/BotaniScan/pull/4) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
+3. 🎉 Merged PR [#3](https://github.com/anurag629/BotaniScan/pull/3) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
+4. 💪 Opened PR [#3](https://github.com/anurag629/BotaniScan/pull/3) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
+5. 🎉 Merged PR [#2](https://github.com/anurag629/BotaniScan/pull/2) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
 <!--END_SECTION:activity-->
 
 ---
