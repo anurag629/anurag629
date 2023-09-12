@@ -45,11 +45,11 @@ MDX            1 min           -------------------------   00.03 %
 # Recent Blog Post
 
 <!-- BLOG-POST-LIST:START -->
-- [GridSearchCV in scikit-learn:- A Detailed Guide](https://www.codercops.tech/posts/gridsearchcv-in-scikit-learn-a-detailed-guide/)
-- [Elon Musk&#39;s Neuralink Receives FDA Approval for Human Trials](https://www.codercops.tech/posts/elon-musks-neuralink-receives-fda-approval-for-human-trials/)
-- [Basics of Python - Variables and Data Types](https://www.codercops.tech/posts/python-basics-of-python-variables-and-data-types/)
-- [Introduction to large language model](https://www.codercops.tech/posts/introduction-to-large-language-model/)
-- [Plant Diseases Detection using Deep Learning](https://www.codercops.tech/posts/plant-diseases-detection-using-deep-learning/)
+- [GridSearchCV in scikit-learn: A Detailed Guide](https://codercops.tech/blog/gridsearchcv-in-scikit-learn-a-detailed-guide)
+- [Introduction to Python](https://codercops.tech/blog/python-tutorial/introduction-to-python)
+- [Elon Musk&#39;s Neuralink Receives FDA Approval for Human Trials](https://codercops.tech/blog/elon-musks-neuralink-receives-fda-approval-for-human-trials)
+- [Basics of Python - Variables and Data Types](https://codercops.tech/blog/python-basics-of-python-variables-and-data-types)
+- [Introduction to large language model](https://codercops.tech/blog/introduction-to-large-language-model)
 <!-- BLOG-POST-LIST:END -->
 
 ---
