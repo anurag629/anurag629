@@ -15,4 +15,4 @@ jobs:
         with:
 
 
-          feed_list: "https://www.anurag629.club/rss.xml"
+          feed_list: "https://codercops.tech/feed.xml"
