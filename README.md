@@ -64,11 +64,11 @@ BibTeX         0 secs          -------------------------   00.01 %
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/anurag629/BotaniScan/pull/6) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
-2. 💪 Opened PR [#6](https://github.com/anurag629/BotaniScan/pull/6) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
-3. 🎉 Merged PR [#4](https://github.com/anurag629/BotaniScan/pull/4) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
-4. 💪 Opened PR [#4](https://github.com/anurag629/BotaniScan/pull/4) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
-5. 🎉 Merged PR [#3](https://github.com/anurag629/BotaniScan/pull/3) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
+1. ❗ Opened issue [#1175](https://github.com/giscus/giscus/issues/1175) in [giscus/giscus](https://github.com/giscus/giscus)
+2. 🎉 Merged PR [#6](https://github.com/anurag629/BotaniScan/pull/6) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
+3. 💪 Opened PR [#6](https://github.com/anurag629/BotaniScan/pull/6) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
+4. 🎉 Merged PR [#4](https://github.com/anurag629/BotaniScan/pull/4) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
+5. 💪 Opened PR [#4](https://github.com/anurag629/BotaniScan/pull/4) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
 <!--END_SECTION:activity-->
 
 ---
