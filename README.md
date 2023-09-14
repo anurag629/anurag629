@@ -64,11 +64,11 @@ ActionScript   0 secs          -------------------------   00.00 %
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/anurag629/BotaniScan/pull/12) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
-2. 🎉 Merged PR [#10](https://github.com/anurag629/BotaniScan/pull/10) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
-3. 🎉 Merged PR [#9](https://github.com/anurag629/BotaniScan/pull/9) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
-4. 💪 Opened PR [#9](https://github.com/anurag629/BotaniScan/pull/9) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
-5. 🎉 Merged PR [#8](https://github.com/anurag629/BotaniScan/pull/8) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
+1. 🗣 Commented on [#14](https://github.com/anurag629/BotaniScan/issues/14#issuecomment-1718809439) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
+2. ❗ Opened issue [#14](https://github.com/anurag629/BotaniScan/issues/14) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
+3. 🎉 Merged PR [#12](https://github.com/anurag629/BotaniScan/pull/12) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
+4. 🎉 Merged PR [#10](https://github.com/anurag629/BotaniScan/pull/10) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
+5. 🎉 Merged PR [#9](https://github.com/anurag629/BotaniScan/pull/9) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
 <!--END_SECTION:activity-->
 
 ---
