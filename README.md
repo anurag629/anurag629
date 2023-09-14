@@ -12,22 +12,23 @@ I have a strong background in **math**, **statistics**, and **programming**. I a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 September 2023 - To: 13 September 2023
+From: 07 September 2023 - To: 14 September 2023
 
-Total Time: 102 hrs 46 mins
+Total Time: 106 hrs 1 min
 
-Other          82 hrs 36 mins  >>>>>>>>>>>>>>>>>>>>-----   80.37 %
-Python         8 hrs 38 mins   >>-----------------------   08.41 %
-TypeScript     7 hrs 5 mins    >>-----------------------   06.89 %
-Markdown       1 hr 21 mins    -------------------------   01.33 %
-Ezhil          44 mins         -------------------------   00.72 %
-Docker         36 mins         -------------------------   00.58 %
-Text           33 mins         -------------------------   00.55 %
-JavaScript     32 mins         -------------------------   00.53 %
+Other          86 hrs 47 mins  >>>>>>>>>>>>>>>>>>>>-----   81.86 %
+TypeScript     7 hrs 25 mins   >>-----------------------   07.00 %
+Python         7 hrs 10 mins   >>-----------------------   06.77 %
+Markdown       1 hr 30 mins    -------------------------   01.42 %
+Ezhil          43 mins         -------------------------   00.69 %
+Docker         35 mins         -------------------------   00.55 %
+Text           33 mins         -------------------------   00.53 %
+JavaScript     33 mins         -------------------------   00.53 %
 YAML           13 mins         -------------------------   00.22 %
 JSON           8 mins          -------------------------   00.13 %
-CSS            2 mins          -------------------------   00.05 %
-Assembly       2 mins          -------------------------   00.05 %
+HTML           3 mins          -------------------------   00.06 %
+CSS            3 mins          -------------------------   00.06 %
+Assembly       2 mins          -------------------------   00.04 %
 Objective-C    2 mins          -------------------------   00.04 %
 XML            2 mins          -------------------------   00.03 %
 MDX            1 min           -------------------------   00.02 %
@@ -35,7 +36,6 @@ Git Config     1 min           -------------------------   00.02 %
 GDScript       0 secs          -------------------------   00.01 %
 TSConfig       0 secs          -------------------------   00.01 %
 Bash           0 secs          -------------------------   00.01 %
-ActionScript   0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
