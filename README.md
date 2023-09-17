@@ -64,11 +64,11 @@ Bash           0 secs          -------------------------   00.01 %
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/anurag629/BotaniScan/pull/16) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
-2. 🔒 Closed issue [#14](https://github.com/anurag629/BotaniScan/issues/14) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
-3. 🎉 Merged PR [#15](https://github.com/anurag629/BotaniScan/pull/15) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
-4. 🗣 Commented on [#14](https://github.com/anurag629/BotaniScan/issues/14#issuecomment-1718809439) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
-5. ❗ Opened issue [#14](https://github.com/anurag629/BotaniScan/issues/14) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
+1. 🎉 Merged PR [#17](https://github.com/anurag629/BotaniScan/pull/17) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
+2. 💪 Opened PR [#17](https://github.com/anurag629/BotaniScan/pull/17) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
+3. 🎉 Merged PR [#16](https://github.com/anurag629/BotaniScan/pull/16) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
+4. 🔒 Closed issue [#14](https://github.com/anurag629/BotaniScan/issues/14) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
+5. 🎉 Merged PR [#15](https://github.com/anurag629/BotaniScan/pull/15) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
 <!--END_SECTION:activity-->
 
 ---
