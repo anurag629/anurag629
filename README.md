@@ -12,28 +12,27 @@ I have a strong background in **math**, **statistics**, and **programming**. I a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2023 - To: 19 September 2023
+From: 13 September 2023 - To: 20 September 2023
 
-Total Time: 118 hrs 51 mins
+Total Time: 119 hrs 57 mins
 
-Other         105 hrs 5 mins  >>>>>>>>>>>>>>>>>>>>>>---   88.42 %
-Python        5 hrs 49 mins   >------------------------   04.90 %
-TypeScript    4 hrs 41 mins   >------------------------   03.95 %
-Markdown      1 hr 18 mins    -------------------------   01.10 %
-JavaScript    40 mins         -------------------------   00.57 %
-Docker        37 mins         -------------------------   00.53 %
+Other         106 hrs 55 mins >>>>>>>>>>>>>>>>>>>>>>---   89.14 %
+Python        6 hrs           >------------------------   05.00 %
+TypeScript    3 hrs 49 mins   >------------------------   03.19 %
+Markdown      1 hr 19 mins    -------------------------   01.11 %
+JavaScript    40 mins         -------------------------   00.56 %
+Docker        37 mins         -------------------------   00.52 %
 YAML          10 mins         -------------------------   00.15 %
 Text          5 mins          -------------------------   00.07 %
-JSON          4 mins          -------------------------   00.07 %
 Bash          3 mins          -------------------------   00.05 %
 CSS           3 mins          -------------------------   00.05 %
 HTML          3 mins          -------------------------   00.05 %
 Prolog        2 mins          -------------------------   00.03 %
 Ezhil         2 mins          -------------------------   00.03 %
+JSON          1 min           -------------------------   00.02 %
 Assembly      0 secs          -------------------------   00.01 %
-Objective-C   0 secs          -------------------------   00.01 %
 TSConfig      0 secs          -------------------------   00.00 %
-XML           0 secs          -------------------------   00.00 %
+Objective-C   0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
