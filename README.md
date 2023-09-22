@@ -12,26 +12,25 @@ I have a strong background in **math**, **statistics**, and **programming**. I a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 September 2023 - To: 21 September 2023
+From: 15 September 2023 - To: 22 September 2023
 
-Total Time: 119 hrs 55 mins
+Total Time: 115 hrs 46 mins
 
-Other         104 hrs 20 mins >>>>>>>>>>>>>>>>>>>>>>---   87.00 %
-Python        6 hrs 46 mins   >------------------------   05.65 %
-TypeScript    4 hrs 11 mins   >------------------------   03.50 %
-Markdown      2 hrs 32 mins   >------------------------   02.12 %
-Docker        37 mins         -------------------------   00.52 %
-JavaScript    37 mins         -------------------------   00.52 %
-MySQL         19 mins         -------------------------   00.28 %
+Other         103 hrs 43 mins >>>>>>>>>>>>>>>>>>>>>>---   89.58 %
+TypeScript    3 hrs 55 mins   >------------------------   03.39 %
+Python        3 hrs 49 mins   >------------------------   03.30 %
+Markdown      2 hrs 3 mins    -------------------------   01.78 %
+MySQL         47 mins         -------------------------   00.69 %
+Docker        36 mins         -------------------------   00.52 %
+JavaScript    29 mins         -------------------------   00.43 %
 YAML          10 mins         -------------------------   00.15 %
-Text          5 mins          -------------------------   00.07 %
-Bash          3 mins          -------------------------   00.05 %
-CSS           3 mins          -------------------------   00.04 %
-Prolog        2 mins          -------------------------   00.03 %
-Ezhil         2 mins          -------------------------   00.03 %
+Bash          3 mins          -------------------------   00.06 %
+CSS           2 mins          -------------------------   00.04 %
 JSON          1 min           -------------------------   00.02 %
+Text          1 min           -------------------------   00.02 %
 Assembly      0 secs          -------------------------   00.01 %
 TSConfig      0 secs          -------------------------   00.00 %
+Ezhil         0 secs          -------------------------   00.00 %
 Objective-C   0 secs          -------------------------   00.00 %
 ```
 
