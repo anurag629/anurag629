@@ -12,26 +12,23 @@ I have a strong background in **math**, **statistics**, and **programming**. I a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 September 2023 - To: 22 September 2023
+From: 16 September 2023 - To: 23 September 2023
 
-Total Time: 115 hrs 46 mins
+Total Time: 118 hrs 29 mins
 
-Other         103 hrs 43 mins >>>>>>>>>>>>>>>>>>>>>>---   89.58 %
-TypeScript    3 hrs 55 mins   >------------------------   03.39 %
-Python        3 hrs 49 mins   >------------------------   03.30 %
-Markdown      2 hrs 3 mins    -------------------------   01.78 %
-MySQL         47 mins         -------------------------   00.69 %
-Docker        36 mins         -------------------------   00.52 %
-JavaScript    29 mins         -------------------------   00.43 %
-YAML          10 mins         -------------------------   00.15 %
-Bash          3 mins          -------------------------   00.06 %
-CSS           2 mins          -------------------------   00.04 %
-JSON          1 min           -------------------------   00.02 %
-Text          1 min           -------------------------   00.02 %
-Assembly      0 secs          -------------------------   00.01 %
-TSConfig      0 secs          -------------------------   00.00 %
-Ezhil         0 secs          -------------------------   00.00 %
-Objective-C   0 secs          -------------------------   00.00 %
+Other        109 hrs 50 mins >>>>>>>>>>>>>>>>>>>>>>>--   92.69 %
+TypeScript   2 hrs 33 mins   >------------------------   02.15 %
+Python       2 hrs 18 mins   -------------------------   01.95 %
+Markdown     2 hrs 3 mins    -------------------------   01.74 %
+MySQL        47 mins         -------------------------   00.67 %
+Docker       30 mins         -------------------------   00.43 %
+JavaScript   21 mins         -------------------------   00.30 %
+Bash         3 mins          -------------------------   00.05 %
+JSON         0 secs          -------------------------   00.01 %
+Assembly     0 secs          -------------------------   00.01 %
+Text         0 secs          -------------------------   00.00 %
+CSS          0 secs          -------------------------   00.00 %
+Ezhil        0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
