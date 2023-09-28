@@ -55,11 +55,11 @@ Ezhil          0 secs          -------------------------   00.00 %
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/anurag629/BotaniScan/pull/25) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
-2. 🎉 Merged PR [#24](https://github.com/anurag629/BotaniScan/pull/24) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
-3. 💪 Opened PR [#24](https://github.com/anurag629/BotaniScan/pull/24) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
-4. 🎉 Merged PR [#23](https://github.com/anurag629/BotaniScan/pull/23) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
-5. 💪 Opened PR [#23](https://github.com/anurag629/BotaniScan/pull/23) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
+1. 🎉 Merged PR [#13](https://github.com/Abhi-gits/Project-IET_TNP_bk/pull/13) in [Abhi-gits/Project-IET_TNP_bk](https://github.com/Abhi-gits/Project-IET_TNP_bk)
+2. 💪 Opened PR [#13](https://github.com/Abhi-gits/Project-IET_TNP_bk/pull/13) in [Abhi-gits/Project-IET_TNP_bk](https://github.com/Abhi-gits/Project-IET_TNP_bk)
+3. 🎉 Merged PR [#25](https://github.com/anurag629/BotaniScan/pull/25) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
+4. 🎉 Merged PR [#24](https://github.com/anurag629/BotaniScan/pull/24) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
+5. 💪 Opened PR [#24](https://github.com/anurag629/BotaniScan/pull/24) in [anurag629/BotaniScan](https://github.com/anurag629/BotaniScan)
 <!--END_SECTION:activity-->
 
 ---
