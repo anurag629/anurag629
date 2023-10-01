@@ -59,11 +59,11 @@ XML            0 secs          -------------------------   00.00 %
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Abhi-gits/iet-place-frontend/pull/1) in [Abhi-gits/iet-place-frontend](https://github.com/Abhi-gits/iet-place-frontend)
-2. 🎉 Merged PR [#14](https://github.com/Abhi-gits/Project-IET_TNP_bk/pull/14) in [Abhi-gits/Project-IET_TNP_bk](https://github.com/Abhi-gits/Project-IET_TNP_bk)
-3. 💪 Opened PR [#14](https://github.com/Abhi-gits/Project-IET_TNP_bk/pull/14) in [Abhi-gits/Project-IET_TNP_bk](https://github.com/Abhi-gits/Project-IET_TNP_bk)
-4. 🎉 Merged PR [#13](https://github.com/Abhi-gits/Project-IET_TNP_bk/pull/13) in [Abhi-gits/Project-IET_TNP_bk](https://github.com/Abhi-gits/Project-IET_TNP_bk)
-5. 💪 Opened PR [#13](https://github.com/Abhi-gits/Project-IET_TNP_bk/pull/13) in [Abhi-gits/Project-IET_TNP_bk](https://github.com/Abhi-gits/Project-IET_TNP_bk)
+1. ❗ Opened issue [#21](https://github.com/codercops/codercops-site/issues/21) in [codercops/codercops-site](https://github.com/codercops/codercops-site)
+2. ❗ Opened issue [#20](https://github.com/anurag629/codercops-site/issues/20) in [anurag629/codercops-site](https://github.com/anurag629/codercops-site)
+3. 💪 Opened PR [#1](https://github.com/Abhi-gits/iet-place-frontend/pull/1) in [Abhi-gits/iet-place-frontend](https://github.com/Abhi-gits/iet-place-frontend)
+4. 🎉 Merged PR [#14](https://github.com/Abhi-gits/Project-IET_TNP_bk/pull/14) in [Abhi-gits/Project-IET_TNP_bk](https://github.com/Abhi-gits/Project-IET_TNP_bk)
+5. 💪 Opened PR [#14](https://github.com/Abhi-gits/Project-IET_TNP_bk/pull/14) in [Abhi-gits/Project-IET_TNP_bk](https://github.com/Abhi-gits/Project-IET_TNP_bk)
 <!--END_SECTION:activity-->
 
 ---
