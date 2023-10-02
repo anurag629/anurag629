@@ -12,24 +12,25 @@ I have a strong background in **math**, **statistics**, and **programming**. I a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 September 2023 - To: 01 October 2023
+From: 25 September 2023 - To: 02 October 2023
 
-Total Time: 102 hrs 27 mins
+Total Time: 104 hrs 4 mins
 
-Other          97 hrs 16 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   94.95 %
-Markdown       1 hr 48 mins    -------------------------   01.76 %
-Python         1 hr 43 mins    -------------------------   01.68 %
-MySQL          43 mins         -------------------------   00.70 %
-Canva Design   31 mins         -------------------------   00.51 %
+Other          96 hrs 33 mins  >>>>>>>>>>>>>>>>>>>>>>>--   92.77 %
+Python         2 hrs 15 mins   >------------------------   02.17 %
+Markdown       2 hrs 12 mins   >------------------------   02.12 %
+MySQL          1 hr 56 mins    -------------------------   01.87 %
+Canva Design   31 mins         -------------------------   00.50 %
 TypeScript     16 mins         -------------------------   00.26 %
+Text           8 mins          -------------------------   00.13 %
 JavaScript     5 mins          -------------------------   00.09 %
+GDScript3      2 mins          -------------------------   00.04 %
 JSON           0 secs          -------------------------   00.01 %
 Bash           0 secs          -------------------------   00.01 %
-Text           0 secs          -------------------------   00.01 %
+Docker         0 secs          -------------------------   00.01 %
 CSS            0 secs          -------------------------   00.00 %
-GDScript3      0 secs          -------------------------   00.00 %
 CSV            0 secs          -------------------------   00.00 %
-Ezhil          0 secs          -------------------------   00.00 %
+Zed            0 secs          -------------------------   00.00 %
 XML            0 secs          -------------------------   00.00 %
 ```
 
