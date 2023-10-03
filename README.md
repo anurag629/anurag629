@@ -60,11 +60,11 @@ XML            0 secs          -------------------------   00.00 %
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#416](https://github.com/instill-ai/community/issues/416#issuecomment-1745325598) in [instill-ai/community](https://github.com/instill-ai/community)
-2. 🗣 Commented on [#22](https://github.com/anurag629/codercops-site/pull/22#issuecomment-1744920711) in [anurag629/codercops-site](https://github.com/anurag629/codercops-site)
-3. 🔒 Closed issue [#1](https://github.com/anurag629/blog-post-workflow/issues/1) in [anurag629/blog-post-workflow](https://github.com/anurag629/blog-post-workflow)
-4. 🗣 Commented on [#1](https://github.com/anurag629/blog-post-workflow/issues/1#issuecomment-1744647450) in [anurag629/blog-post-workflow](https://github.com/anurag629/blog-post-workflow)
-5. 🎉 Merged PR [#2](https://github.com/anurag629/blog-post-workflow/pull/2) in [anurag629/blog-post-workflow](https://github.com/anurag629/blog-post-workflow)
+1. 🗣 Commented on [#395](https://github.com/instill-ai/community/issues/395#issuecomment-1745339888) in [instill-ai/community](https://github.com/instill-ai/community)
+2. 🗣 Commented on [#416](https://github.com/instill-ai/community/issues/416#issuecomment-1745325598) in [instill-ai/community](https://github.com/instill-ai/community)
+3. 🗣 Commented on [#22](https://github.com/anurag629/codercops-site/pull/22#issuecomment-1744920711) in [anurag629/codercops-site](https://github.com/anurag629/codercops-site)
+4. 🔒 Closed issue [#1](https://github.com/anurag629/blog-post-workflow/issues/1) in [anurag629/blog-post-workflow](https://github.com/anurag629/blog-post-workflow)
+5. 🗣 Commented on [#1](https://github.com/anurag629/blog-post-workflow/issues/1#issuecomment-1744647450) in [anurag629/blog-post-workflow](https://github.com/anurag629/blog-post-workflow)
 <!--END_SECTION:activity-->
 
 ---
