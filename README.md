@@ -60,11 +60,11 @@ XML            0 secs          -------------------------   00.00 %
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/anurag629/codercops-site/issues/20#issuecomment-1744326691) in [anurag629/codercops-site](https://github.com/anurag629/codercops-site)
-2. 🗣 Commented on [#20](https://github.com/anurag629/codercops-site/issues/20#issuecomment-1744107123) in [anurag629/codercops-site](https://github.com/anurag629/codercops-site)
-3. ❗ Opened issue [#21](https://github.com/codercops/codercops-site/issues/21) in [codercops/codercops-site](https://github.com/codercops/codercops-site)
-4. ❗ Opened issue [#20](https://github.com/anurag629/codercops-site/issues/20) in [anurag629/codercops-site](https://github.com/anurag629/codercops-site)
-5. 💪 Opened PR [#1](https://github.com/Abhi-gits/iet-place-frontend/pull/1) in [Abhi-gits/iet-place-frontend](https://github.com/Abhi-gits/iet-place-frontend)
+1. 🔒 Closed issue [#1](https://github.com/anurag629/blog-post-workflow/issues/1) in [anurag629/blog-post-workflow](https://github.com/anurag629/blog-post-workflow)
+2. 🗣 Commented on [#1](https://github.com/anurag629/blog-post-workflow/issues/1#issuecomment-1744647450) in [anurag629/blog-post-workflow](https://github.com/anurag629/blog-post-workflow)
+3. 🎉 Merged PR [#2](https://github.com/anurag629/blog-post-workflow/pull/2) in [anurag629/blog-post-workflow](https://github.com/anurag629/blog-post-workflow)
+4. ❗ Opened issue [#1](https://github.com/anurag629/blog-post-workflow/issues/1) in [anurag629/blog-post-workflow](https://github.com/anurag629/blog-post-workflow)
+5. 🗣 Commented on [#20](https://github.com/anurag629/codercops-site/issues/20#issuecomment-1744326691) in [anurag629/codercops-site](https://github.com/anurag629/codercops-site)
 <!--END_SECTION:activity-->
 
 ---
