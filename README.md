@@ -63,11 +63,11 @@ XML            0 secs          -------------------------   00.00 %
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#392](https://github.com/instill-ai/community/issues/392#issuecomment-1748836270) in [instill-ai/community](https://github.com/instill-ai/community)
-2. 🗣 Commented on [#437](https://github.com/instill-ai/community/issues/437#issuecomment-1748489727) in [instill-ai/community](https://github.com/instill-ai/community)
-3. 🗣 Commented on [#411](https://github.com/instill-ai/community/issues/411#issuecomment-1748006323) in [instill-ai/community](https://github.com/instill-ai/community)
-4. 🗣 Commented on [#394](https://github.com/instill-ai/community/issues/394#issuecomment-1747352770) in [instill-ai/community](https://github.com/instill-ai/community)
-5. 🗣 Commented on [#427](https://github.com/instill-ai/community/issues/427#issuecomment-1747347405) in [instill-ai/community](https://github.com/instill-ai/community)
+1. 🗣 Commented on [#437](https://github.com/instill-ai/community/issues/437#issuecomment-1748880927) in [instill-ai/community](https://github.com/instill-ai/community)
+2. 🗣 Commented on [#392](https://github.com/instill-ai/community/issues/392#issuecomment-1748836270) in [instill-ai/community](https://github.com/instill-ai/community)
+3. 🗣 Commented on [#437](https://github.com/instill-ai/community/issues/437#issuecomment-1748489727) in [instill-ai/community](https://github.com/instill-ai/community)
+4. 🗣 Commented on [#411](https://github.com/instill-ai/community/issues/411#issuecomment-1748006323) in [instill-ai/community](https://github.com/instill-ai/community)
+5. 🗣 Commented on [#394](https://github.com/instill-ai/community/issues/394#issuecomment-1747352770) in [instill-ai/community](https://github.com/instill-ai/community)
 <!--END_SECTION:activity-->
 
 ---
