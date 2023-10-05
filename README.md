@@ -12,29 +12,30 @@ I have a strong background in **math**, **statistics**, and **programming**. I a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 September 2023 - To: 04 October 2023
+From: 28 September 2023 - To: 05 October 2023
 
-Total Time: 109 hrs 18 mins
+Total Time: 103 hrs 49 mins
 
-Other          99 hrs 51 mins  >>>>>>>>>>>>>>>>>>>>>>>--   91.34 %
-Python         4 hrs 34 mins   >------------------------   04.18 %
-Markdown       1 hr 54 mins    -------------------------   01.74 %
-MySQL          1 hr 53 mins    -------------------------   01.73 %
-TypeScript     36 mins         -------------------------   00.56 %
-Text           8 mins          -------------------------   00.13 %
-JSON           7 mins          -------------------------   00.11 %
-JavaScript     5 mins          -------------------------   00.08 %
+Other          90 hrs 50 mins  >>>>>>>>>>>>>>>>>>>>>>---   87.49 %
+Python         4 hrs 31 mins   >------------------------   04.36 %
+JavaScript     3 hrs 6 mins    >------------------------   03.00 %
+Markdown       1 hr 55 mins    -------------------------   01.85 %
+MySQL          1 hr 53 mins    -------------------------   01.83 %
+TypeScript     59 mins         -------------------------   00.96 %
+JSON           11 mins         -------------------------   00.19 %
+Text           8 mins          -------------------------   00.14 %
+HTML           3 mins          -------------------------   00.05 %
 GDScript3      2 mins          -------------------------   00.04 %
+CSS            1 min           -------------------------   00.03 %
 Objective-C    1 min           -------------------------   00.02 %
-Bash           0 secs          -------------------------   00.01 %
 Figma Design   0 secs          -------------------------   00.01 %
-Canva Design   0 secs          -------------------------   00.01 %
 Assembly       0 secs          -------------------------   00.01 %
 Docker         0 secs          -------------------------   00.01 %
-CSS            0 secs          -------------------------   00.00 %
+PHP            0 secs          -------------------------   00.00 %
 CSV            0 secs          -------------------------   00.00 %
 Zed            0 secs          -------------------------   00.00 %
 XML            0 secs          -------------------------   00.00 %
+Ezhil          0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
