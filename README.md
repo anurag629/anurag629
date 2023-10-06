@@ -64,11 +64,11 @@ Ezhil          0 secs          -------------------------   00.00 %
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#394](https://github.com/instill-ai/community/issues/394#issuecomment-1748946261) in [instill-ai/community](https://github.com/instill-ai/community)
-2. 🗣 Commented on [#624](https://github.com/instill-ai/instill.tech/pull/624#issuecomment-1748945048) in [instill-ai/instill.tech](https://github.com/instill-ai/instill.tech)
-3. 💪 Opened PR [#624](https://github.com/instill-ai/instill.tech/pull/624) in [instill-ai/instill.tech](https://github.com/instill-ai/instill.tech)
-4. 🗣 Commented on [#437](https://github.com/instill-ai/community/issues/437#issuecomment-1748880927) in [instill-ai/community](https://github.com/instill-ai/community)
-5. 🗣 Commented on [#392](https://github.com/instill-ai/community/issues/392#issuecomment-1748836270) in [instill-ai/community](https://github.com/instill-ai/community)
+1. 🗣 Commented on [#411](https://github.com/instill-ai/community/issues/411#issuecomment-1750024029) in [instill-ai/community](https://github.com/instill-ai/community)
+2. 🗣 Commented on [#394](https://github.com/instill-ai/community/issues/394#issuecomment-1748946261) in [instill-ai/community](https://github.com/instill-ai/community)
+3. 🗣 Commented on [#624](https://github.com/instill-ai/instill.tech/pull/624#issuecomment-1748945048) in [instill-ai/instill.tech](https://github.com/instill-ai/instill.tech)
+4. 💪 Opened PR [#624](https://github.com/instill-ai/instill.tech/pull/624) in [instill-ai/instill.tech](https://github.com/instill-ai/instill.tech)
+5. 🗣 Commented on [#437](https://github.com/instill-ai/community/issues/437#issuecomment-1748880927) in [instill-ai/community](https://github.com/instill-ai/community)
 <!--END_SECTION:activity-->
 
 ---
