@@ -64,11 +64,11 @@ Ezhil          0 secs          -------------------------   00.00 %
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/anurag629/codercops-site/pull/23#issuecomment-1751802517) in [anurag629/codercops-site](https://github.com/anurag629/codercops-site)
-2. ❗ Opened issue [#24](https://github.com/anurag629/codercops-site/issues/24) in [anurag629/codercops-site](https://github.com/anurag629/codercops-site)
-3. 🗣 Commented on [#411](https://github.com/instill-ai/community/issues/411#issuecomment-1750024029) in [instill-ai/community](https://github.com/instill-ai/community)
-4. 🗣 Commented on [#394](https://github.com/instill-ai/community/issues/394#issuecomment-1748946261) in [instill-ai/community](https://github.com/instill-ai/community)
-5. 🗣 Commented on [#624](https://github.com/instill-ai/instill.tech/pull/624#issuecomment-1748945048) in [instill-ai/instill.tech](https://github.com/instill-ai/instill.tech)
+1. 🎉 Merged PR [#16](https://github.com/Abhi-gits/Project-IET_TNP_bk/pull/16) in [Abhi-gits/Project-IET_TNP_bk](https://github.com/Abhi-gits/Project-IET_TNP_bk)
+2. 💪 Opened PR [#16](https://github.com/Abhi-gits/Project-IET_TNP_bk/pull/16) in [Abhi-gits/Project-IET_TNP_bk](https://github.com/Abhi-gits/Project-IET_TNP_bk)
+3. 🎉 Merged PR [#15](https://github.com/Abhi-gits/Project-IET_TNP_bk/pull/15) in [Abhi-gits/Project-IET_TNP_bk](https://github.com/Abhi-gits/Project-IET_TNP_bk)
+4. 💪 Opened PR [#15](https://github.com/Abhi-gits/Project-IET_TNP_bk/pull/15) in [Abhi-gits/Project-IET_TNP_bk](https://github.com/Abhi-gits/Project-IET_TNP_bk)
+5. 🗣 Commented on [#23](https://github.com/anurag629/codercops-site/pull/23#issuecomment-1751802517) in [anurag629/codercops-site](https://github.com/anurag629/codercops-site)
 <!--END_SECTION:activity-->
 
 ---
