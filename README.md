@@ -12,30 +12,29 @@ I have a strong background in **math**, **statistics**, and **programming**. I a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 October 2023 - To: 09 October 2023
+From: 03 October 2023 - To: 10 October 2023
 
-Total Time: 108 hrs 25 mins
+Total Time: 105 hrs 45 mins
 
-Other          83 hrs 10 mins  >>>>>>>>>>>>>>>>>>>------   76.71 %
-JavaScript     15 hrs 24 mins  >>>>---------------------   14.21 %
-Python         5 hrs 28 mins   >------------------------   05.05 %
-TypeScript     3 hrs 27 mins   >------------------------   03.20 %
-JSON           16 mins         -------------------------   00.25 %
-Markdown       16 mins         -------------------------   00.25 %
+Other          80 hrs 30 mins  >>>>>>>>>>>>>>>>>>>------   76.12 %
+JavaScript     16 hrs 44 mins  >>>>---------------------   15.83 %
+Python         4 hrs 3 mins    >------------------------   03.84 %
+TypeScript     3 hrs 27 mins   >------------------------   03.28 %
+JSON           21 mins         -------------------------   00.35 %
+Markdown       14 mins         -------------------------   00.23 %
 HTML           8 mins          -------------------------   00.13 %
 CSS            4 mins          -------------------------   00.08 %
-Bash           1 min           -------------------------   00.03 %
-Canva Design   1 min           -------------------------   00.02 %
-MySQL          1 min           -------------------------   00.02 %
+Bash           4 mins          -------------------------   00.07 %
+Canva Design   1 min           -------------------------   00.03 %
 Objective-C    1 min           -------------------------   00.02 %
-Text           1 min           -------------------------   00.02 %
+Text           0 secs          -------------------------   00.02 %
 Assembly       0 secs          -------------------------   00.01 %
-Figma Design   0 secs          -------------------------   00.01 %
 YAML           0 secs          -------------------------   00.00 %
 PHP            0 secs          -------------------------   00.00 %
 TSConfig       0 secs          -------------------------   00.00 %
 INI            0 secs          -------------------------   00.00 %
 TOML           0 secs          -------------------------   00.00 %
+Ezhil          0 secs          -------------------------   00.00 %
 ```
 
 <!--END_SECTION:waka-->
