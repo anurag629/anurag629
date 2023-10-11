@@ -12,26 +12,25 @@ I have a strong background in **math**, **statistics**, and **programming**. I a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 October 2023 - To: 10 October 2023
+From: 04 October 2023 - To: 11 October 2023
 
-Total Time: 105 hrs 45 mins
+Total Time: 103 hrs 6 mins
 
-Other          80 hrs 30 mins  >>>>>>>>>>>>>>>>>>>------   76.12 %
-JavaScript     16 hrs 44 mins  >>>>---------------------   15.83 %
-Python         4 hrs 3 mins    >------------------------   03.84 %
-TypeScript     3 hrs 27 mins   >------------------------   03.28 %
-JSON           21 mins         -------------------------   00.35 %
+Other          78 hrs 36 mins  >>>>>>>>>>>>>>>>>>>------   76.25 %
+JavaScript     17 hrs 12 mins  >>>>---------------------   16.69 %
+Python         3 hrs 29 mins   >------------------------   03.39 %
+TypeScript     2 hrs 56 mins   >------------------------   02.86 %
+JSON           15 mins         -------------------------   00.25 %
 Markdown       14 mins         -------------------------   00.23 %
 HTML           8 mins          -------------------------   00.13 %
 CSS            4 mins          -------------------------   00.08 %
 Bash           4 mins          -------------------------   00.07 %
 Canva Design   1 min           -------------------------   00.03 %
-Objective-C    1 min           -------------------------   00.02 %
-Text           0 secs          -------------------------   00.02 %
-Assembly       0 secs          -------------------------   00.01 %
+Text           0 secs          -------------------------   00.01 %
 YAML           0 secs          -------------------------   00.00 %
 PHP            0 secs          -------------------------   00.00 %
 TSConfig       0 secs          -------------------------   00.00 %
+Assembly       0 secs          -------------------------   00.00 %
 INI            0 secs          -------------------------   00.00 %
 TOML           0 secs          -------------------------   00.00 %
 Ezhil          0 secs          -------------------------   00.00 %
