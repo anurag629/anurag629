@@ -12,20 +12,19 @@ I have a strong background in **math**, **statistics**, and **programming**. I a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 October 2023 - To: 14 October 2023
+From: 08 October 2023 - To: 15 October 2023
 
-Total Time: 113 hrs 46 mins
+Total Time: 110 hrs 1 min
 
-Other        96 hrs 7 mins   >>>>>>>>>>>>>>>>>>>>>----   84.48 %
-JavaScript   11 hrs 15 mins  >>-----------------------   09.90 %
-Python       3 hrs 30 mins   >------------------------   03.08 %
-Markdown     2 hrs 32 mins   >------------------------   02.23 %
-JSON         10 mins         -------------------------   00.16 %
+Other        98 hrs 19 mins  >>>>>>>>>>>>>>>>>>>>>>---   89.37 %
+JavaScript   5 hrs 17 mins   >------------------------   04.81 %
+Python       3 hrs 31 mins   >------------------------   03.20 %
+Markdown     2 hrs 33 mins   >------------------------   02.32 %
+JSON         9 mins          -------------------------   00.14 %
 Bash         4 mins          -------------------------   00.06 %
 Text         3 mins          -------------------------   00.05 %
 Docker       1 min           -------------------------   00.02 %
 HTML         0 secs          -------------------------   00.01 %
-TypeScript   0 secs          -------------------------   00.00 %
 YAML         0 secs          -------------------------   00.00 %
 INI          0 secs          -------------------------   00.00 %
 TOML         0 secs          -------------------------   00.00 %
