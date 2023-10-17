@@ -56,11 +56,11 @@ YAML         0 secs          -------------------------   00.00 %
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/anurag629/IET_AGRA/pull/1) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
-2. 🗣 Commented on [#23](https://github.com/anurag629/codercops-site/pull/23#issuecomment-1763283572) in [anurag629/codercops-site](https://github.com/anurag629/codercops-site)
-3. 🎉 Merged PR [#23](https://github.com/Abhi-gits/Project-IET_TNP_bk/pull/23) in [Abhi-gits/Project-IET_TNP_bk](https://github.com/Abhi-gits/Project-IET_TNP_bk)
-4. 💪 Opened PR [#23](https://github.com/Abhi-gits/Project-IET_TNP_bk/pull/23) in [Abhi-gits/Project-IET_TNP_bk](https://github.com/Abhi-gits/Project-IET_TNP_bk)
-5. 🎉 Merged PR [#22](https://github.com/Abhi-gits/Project-IET_TNP_bk/pull/22) in [Abhi-gits/Project-IET_TNP_bk](https://github.com/Abhi-gits/Project-IET_TNP_bk)
+1. 🗣 Commented on [#624](https://github.com/instill-ai/instill.tech/pull/624#issuecomment-1766301859) in [instill-ai/instill.tech](https://github.com/instill-ai/instill.tech)
+2. 🗣 Commented on [#623](https://github.com/instill-ai/instill.tech/pull/623#issuecomment-1766301163) in [instill-ai/instill.tech](https://github.com/instill-ai/instill.tech)
+3. 🎉 Merged PR [#1](https://github.com/anurag629/IET_AGRA/pull/1) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
+4. 🗣 Commented on [#23](https://github.com/anurag629/codercops-site/pull/23#issuecomment-1763283572) in [anurag629/codercops-site](https://github.com/anurag629/codercops-site)
+5. 🎉 Merged PR [#23](https://github.com/Abhi-gits/Project-IET_TNP_bk/pull/23) in [Abhi-gits/Project-IET_TNP_bk](https://github.com/Abhi-gits/Project-IET_TNP_bk)
 <!--END_SECTION:activity-->
 
 ---
