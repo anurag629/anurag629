@@ -12,15 +12,15 @@ I have a strong background in **math**, **statistics**, and **programming**. I a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 October 2023 - To: 19 October 2023
+From: 13 October 2023 - To: 20 October 2023
 
-Total Time: 118 hrs 51 mins
+Total Time: 111 hrs 2 mins
 
-Other        109 hrs 49 mins >>>>>>>>>>>>>>>>>>>>>>>--   92.39 %
-Markdown     5 hrs 37 mins   >------------------------   04.73 %
-Python       3 hrs 6 mins    >------------------------   02.61 %
-Docker       9 mins          -------------------------   00.13 %
-Text         7 mins          -------------------------   00.10 %
+Other        103 hrs 35 mins >>>>>>>>>>>>>>>>>>>>>>>--   93.29 %
+Markdown     4 hrs 7 mins    >------------------------   03.71 %
+Python       3 hrs           >------------------------   02.71 %
+Docker       9 mins          -------------------------   00.14 %
+Text         7 mins          -------------------------   00.11 %
 JavaScript   1 min           -------------------------   00.02 %
 JSON         0 secs          -------------------------   00.01 %
 Assembly     0 secs          -------------------------   00.00 %
