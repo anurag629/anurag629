@@ -54,11 +54,11 @@ Ezhil        0 secs          -------------------------   00.00 %
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/Abhi-gits/Project-IET_TNP_bk/pull/24) in [Abhi-gits/Project-IET_TNP_bk](https://github.com/Abhi-gits/Project-IET_TNP_bk)
-2. 💪 Opened PR [#24](https://github.com/Abhi-gits/Project-IET_TNP_bk/pull/24) in [Abhi-gits/Project-IET_TNP_bk](https://github.com/Abhi-gits/Project-IET_TNP_bk)
-3. 🗣 Commented on [#2](https://github.com/anurag629/IET_AGRA/issues/2#issuecomment-1772514016) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
-4. 🗣 Commented on [#2](https://github.com/anurag629/IET_AGRA/issues/2#issuecomment-1772471136) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
-5. 🔒 Closed issue [#20](https://github.com/anurag629/codercops-site/issues/20) in [anurag629/codercops-site](https://github.com/anurag629/codercops-site)
+1. 🎉 Merged PR [#3](https://github.com/anurag629/IET_AGRA/pull/3) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
+2. 🎉 Merged PR [#24](https://github.com/Abhi-gits/Project-IET_TNP_bk/pull/24) in [Abhi-gits/Project-IET_TNP_bk](https://github.com/Abhi-gits/Project-IET_TNP_bk)
+3. 💪 Opened PR [#24](https://github.com/Abhi-gits/Project-IET_TNP_bk/pull/24) in [Abhi-gits/Project-IET_TNP_bk](https://github.com/Abhi-gits/Project-IET_TNP_bk)
+4. 🗣 Commented on [#2](https://github.com/anurag629/IET_AGRA/issues/2#issuecomment-1772514016) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
+5. 🗣 Commented on [#2](https://github.com/anurag629/IET_AGRA/issues/2#issuecomment-1772471136) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
 <!--END_SECTION:activity-->
 
 ---
