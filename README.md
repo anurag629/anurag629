@@ -46,11 +46,11 @@ Canva Design   2 mins          -------------------------   00.05 %
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/anurag629/IET_AGRA/pull/3) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
-2. 🎉 Merged PR [#24](https://github.com/Abhi-gits/Project-IET_TNP_bk/pull/24) in [Abhi-gits/Project-IET_TNP_bk](https://github.com/Abhi-gits/Project-IET_TNP_bk)
-3. 💪 Opened PR [#24](https://github.com/Abhi-gits/Project-IET_TNP_bk/pull/24) in [Abhi-gits/Project-IET_TNP_bk](https://github.com/Abhi-gits/Project-IET_TNP_bk)
-4. 🗣 Commented on [#2](https://github.com/anurag629/IET_AGRA/issues/2#issuecomment-1772514016) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
-5. 🗣 Commented on [#2](https://github.com/anurag629/IET_AGRA/issues/2#issuecomment-1772471136) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
+1. 🗣 Commented on [#4](https://github.com/anurag629/IET_AGRA/pull/4#issuecomment-1783679918) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
+2. 🎉 Merged PR [#3](https://github.com/anurag629/IET_AGRA/pull/3) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
+3. 🎉 Merged PR [#24](https://github.com/Abhi-gits/Project-IET_TNP_bk/pull/24) in [Abhi-gits/Project-IET_TNP_bk](https://github.com/Abhi-gits/Project-IET_TNP_bk)
+4. 💪 Opened PR [#24](https://github.com/Abhi-gits/Project-IET_TNP_bk/pull/24) in [Abhi-gits/Project-IET_TNP_bk](https://github.com/Abhi-gits/Project-IET_TNP_bk)
+5. 🗣 Commented on [#2](https://github.com/anurag629/IET_AGRA/issues/2#issuecomment-1772514016) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
 <!--END_SECTION:activity-->
 
 ---
