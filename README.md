@@ -27,11 +27,11 @@ Canva Design   2 mins          -------------------------   00.05 %
 # Recent Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [Simple Linear Regression: Mathematical Intuition and Implementation in Python](https://codercops.tech/blog/machine-learning-algorithms/simple-linear-regression-mathematical-intuation)
 - [GridSearchCV in scikit-learn: A Detailed Guide](https://codercops.tech/blog/gridsearchcv-in-scikit-learn-a-detailed-guide)
 - [Introduction to Python](https://codercops.tech/blog/python-tutorial/introduction-to-python)
 - [Elon Musk&#39;s Neuralink Receives FDA Approval for Human Trials](https://codercops.tech/blog/elon-musks-neuralink-receives-fda-approval-for-human-trials)
 - [Basics of Python - Variables and Data Types](https://codercops.tech/blog/python-basics-of-python-variables-and-data-types)
-- [Introduction to large language model](https://codercops.tech/blog/introduction-to-large-language-model)
 <!-- BLOG-POST-LIST:END -->
 
 ---
