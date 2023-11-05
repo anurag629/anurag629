@@ -12,11 +12,11 @@ I have a strong background in **math**, **statistics**, and **programming**. I a
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 October 2023 - To: 04 November 2023
+From: 29 October 2023 - To: 05 November 2023
 
-Total Time: 82 hrs 30 mins
+Total Time: 66 hrs 58 mins
 
-Other   82 hrs 30 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+Other   66 hrs 58 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
