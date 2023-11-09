@@ -4,7 +4,19 @@
 
 <h1 align="center">Hi 👋, I'm Anurag Verma</h1>
 
-I have a strong background in **math**, **statistics**, and **programming**. I am passionate about translating complex data into actionable insights. I have experience in building machine learning models and data analysis. I am a quick learner and enjoy working in a fast-paced work environment. I am looking for a position where I can apply my skills to real-world problems.
+What's up, friends! 👋 I'm a computer science student about to finish my last year of college. 🎓
+
+I LOVE writing code! ❤️ It makes me so happy! 😄 Whether I'm goofing in notebooks 📓 or coding in Python 🐍, writing programs is a blast! 💥
+
+When I'm not geeking out over AI 🤖 with my classmates or building neural networks, 🧠 you can find me buried in statistics textbooks. 📚 I know, what a nerd! 🤓
+
+I'm always down to learn new ways to speak human 🫂 and computer 💻. Making tech more fun is my jam! 🍇
+
+If you want a cheery data buddy 😎 who can make difficult things easy-peasy 🥝 and learning a party 🎉, I'm your guy! 🙋‍♂️
+
+Let's chat codes 👨‍💻, numbers 🧮, and machines 🤖 over coffee! ☕ I'd love to meet more techy humans. 💁‍♂️
+
+Can't wait to talk! 🗣️
 
 ---
 
