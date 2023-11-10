@@ -24,11 +24,11 @@ Can't wait to talk! 🗣️
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 November 2023 - To: 09 November 2023
+From: 03 November 2023 - To: 10 November 2023
 
-Total Time: 78 hrs 36 mins
+Total Time: 61 hrs 18 mins
 
-Other   78 hrs 36 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+Other   61 hrs 18 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
