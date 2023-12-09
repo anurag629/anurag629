@@ -46,9 +46,9 @@ Can't wait to talk! 🗣️
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8](https://github.com/anurag629/IET_AGRA/issues/8) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
-2. ❗ Opened issue [#6](https://github.com/anurag629/IET_AGRA/issues/6) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
-3. ❗ Opened issue [#5](https://github.com/anurag629/IET_AGRA/issues/5) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
+1. ❗ Opened issue [#9](https://github.com/anurag629/IET_AGRA/issues/9) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
+2. ❗ Opened issue [#8](https://github.com/anurag629/IET_AGRA/issues/8) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
+3. ❗ Opened issue [#6](https://github.com/anurag629/IET_AGRA/issues/6) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
 4. 💪 Opened PR [#1](https://github.com/anurag629/MLOps-Learning/pull/1) in [anurag629/MLOps-Learning](https://github.com/anurag629/MLOps-Learning)
 5. ❌ Closed PR [#1](https://github.com/Abhi-gits/iet-place-frontend/pull/1) in [Abhi-gits/iet-place-frontend](https://github.com/Abhi-gits/iet-place-frontend)
 <!--END_SECTION:activity-->
