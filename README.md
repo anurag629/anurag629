@@ -46,10 +46,10 @@ Can't wait to talk! 🗣️
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/anurag629/IET_AGRA/pull/10) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
-2. 🗣 Commented on [#7](https://github.com/anurag629/IET_AGRA/issues/7#issuecomment-1849436002) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
-3. ❗ Opened issue [#9](https://github.com/anurag629/IET_AGRA/issues/9) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
-4. 💪 Opened PR [#1](https://github.com/anurag629/MLOps-Learning/pull/1) in [anurag629/MLOps-Learning](https://github.com/anurag629/MLOps-Learning)
+1. 🗣 Commented on [#485](https://github.com/instill-ai/community/issues/485#issuecomment-1851357917) in [instill-ai/community](https://github.com/instill-ai/community)
+2. 🎉 Merged PR [#10](https://github.com/anurag629/IET_AGRA/pull/10) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
+3. 🗣 Commented on [#7](https://github.com/anurag629/IET_AGRA/issues/7#issuecomment-1849436002) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
+4. ❗ Opened issue [#9](https://github.com/anurag629/IET_AGRA/issues/9) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
 5. ❌ Closed PR [#1](https://github.com/Abhi-gits/iet-place-frontend/pull/1) in [Abhi-gits/iet-place-frontend](https://github.com/Abhi-gits/iet-place-frontend)
 <!--END_SECTION:activity-->
 
