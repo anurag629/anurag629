@@ -46,11 +46,11 @@ Can't wait to talk! 🗣️
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/anurag629/IET_AGRA/issues/8#issuecomment-1854538711) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
-2. 🗣 Commented on [#9](https://github.com/anurag629/IET_AGRA/issues/9#issuecomment-1854537896) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
-3. 🗣 Commented on [#485](https://github.com/instill-ai/community/issues/485#issuecomment-1851357917) in [instill-ai/community](https://github.com/instill-ai/community)
-4. 🎉 Merged PR [#10](https://github.com/anurag629/IET_AGRA/pull/10) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
-5. 🗣 Commented on [#7](https://github.com/anurag629/IET_AGRA/issues/7#issuecomment-1849436002) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
+1. 🗣 Commented on [#5](https://github.com/anurag629/IET_AGRA/issues/5#issuecomment-1854540580) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
+2. 🗣 Commented on [#6](https://github.com/anurag629/IET_AGRA/issues/6#issuecomment-1854540235) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
+3. 🗣 Commented on [#8](https://github.com/anurag629/IET_AGRA/issues/8#issuecomment-1854538711) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
+4. 🗣 Commented on [#9](https://github.com/anurag629/IET_AGRA/issues/9#issuecomment-1854537896) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
+5. 🗣 Commented on [#485](https://github.com/instill-ai/community/issues/485#issuecomment-1851357917) in [instill-ai/community](https://github.com/instill-ai/community)
 <!--END_SECTION:activity-->
 
 ---
