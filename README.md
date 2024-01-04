@@ -20,10 +20,12 @@ Can't wait to talk! 🗣️
 
 ---
 
-
-
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=mwvywke3fo2gajpenodnmobfh&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true">
+</p>
 
 ---
+
 # Recent Blog Post
 
 <!-- BLOG-POST-LIST:START -->
@@ -44,6 +46,12 @@ Can't wait to talk! 🗣️
 
 ---
 
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=anurag629&theme=onedark&column=-1" />
+</p>
+
+---
+
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#13](https://github.com/anurag629/IET_AGRA/pull/13) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
@@ -54,6 +62,12 @@ Can't wait to talk! 🗣️
 <!--END_SECTION:activity-->
 
 ---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<!--START_SECTION:waka-simple-->
+<!--END_SECTION:waka-simple-->
 
 <p align="center"> 
 <a href="https://www.buymeacoffee.com/anurag629" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="60" width="250"></a>
