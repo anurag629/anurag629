@@ -76,6 +76,15 @@ No activity tracked
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
+
+```text
+From: 10 May 2023 - To: 03 January 2024
+
+Total Time: 1,943 hrs 46 mins
+
+Other            1,621 hrs 3 mins⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀   83.40 %
+```
+
 <!--END_SECTION:waka-simple-->
 
 <p align="center"> 
