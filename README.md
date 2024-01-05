@@ -64,15 +64,79 @@ Can't wait to talk! 🗣️
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C949%20hrs%2033%20mins-blue)
 
-```txt
-From: 27 December 2023 - To: 03 January 2024
+![Profile Views](http://img.shields.io/badge/Profile%20Views-60-blue)
 
-Total Time: 0 secs
+**🐱 My GitHub Data** 
 
-No activity tracked
+> 📦 669.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 40 Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 66 Public Repositories 
+ > 
+> 🔑 10 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                703 commits         █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+🌆 Daytime                1106 commits        ████████░░░░░░░░░░░░░░░░░   30.01 % 
+🌃 Evening                1234 commits        ████████░░░░░░░░░░░░░░░░░   33.49 % 
+🌙 Night                  642 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   670 commits         █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Tuesday                  521 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Wednesday                782 commits         █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
+Thursday                 498 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Friday                   442 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+Saturday                 415 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Sunday                   357 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Jupyter Notebook** 
+
+```text
+Jupyter Notebook         100 repos           ██████████████░░░░░░░░░░░   57.47 % 
+Python                   44 repos            ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
+TypeScript               7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+MDX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/anurag629/anurag629/main/assets/bar_graph.png)
+
+
+ Last Updated on 05/01/2024 06:03:02 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
