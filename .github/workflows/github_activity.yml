@@ -1,5 +1,6 @@
 name: Recent Github Activity
 on:
+  push:
   schedule:
     - cron: "*/1 * * * *"
   workflow_dispatch:
