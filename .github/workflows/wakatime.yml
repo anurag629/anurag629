@@ -14,7 +14,7 @@ jobs:
       - uses: guilyx/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUBTOKEN }}
           SECTION_NAME: "waka-simple"
           COMMIT_MESSAGE: "Updated simple waka stats section"
           BLOCKS: "⣀⣄⣤⣦⣶⣷⣿"
