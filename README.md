@@ -64,7 +64,7 @@ Can't wait to talk! 🗣️
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C952%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C952%20hrs%2038%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -142,7 +142,7 @@ MDX                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/anurag629/anurag629/main/assets/bar_graph.png)
 
 
- Last Updated on 05/01/2024 15:39:20 UTC
+ Last Updated on 05/01/2024 15:43:31 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
