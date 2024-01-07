@@ -68,7 +68,7 @@ Can't wait to talk! 🗣️
 
 **🐱 My GitHub Data** 
 
-> 📦 696.8 kB Used in GitHub's Storage 
+> 📦 710.0 kB Used in GitHub's Storage 
  > 
 > 🏆 69 Contributions in the Year 2024
  > 
@@ -144,7 +144,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/anurag629/anurag629/main/assets/bar_graph.png)
 
 
- Last Updated on 07/01/2024 15:16:59 UTC
+ Last Updated on 07/01/2024 15:21:20 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
