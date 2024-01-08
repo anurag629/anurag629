@@ -2,7 +2,7 @@ name: Latest blog post workflow
 on:
   push:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: "20 5 * * *"
   workflow_dispatch:
 
 jobs:
