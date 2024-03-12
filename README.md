@@ -54,7 +54,7 @@ Can't wait to talk! 🗣️
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/anurag629/IET_AGRA/pull/13) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
+1. 💪 Opened PR [#25](https://github.com/Abhi-gits/Project-IET_TNP_bk/pull/25) in [Abhi-gits/Project-IET_TNP_bk](https://github.com/Abhi-gits/Project-IET_TNP_bk)
 2. 🔒 Closed issue [#5](https://github.com/anurag629/IET_AGRA/issues/5) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
 3. 🎉 Merged PR [#12](https://github.com/anurag629/IET_AGRA/pull/12) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
 4. 🎉 Merged PR [#11](https://github.com/anurag629/IET_AGRA/pull/11) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
