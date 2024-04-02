@@ -147,11 +147,11 @@ JavaScript               6 repos             █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 10 May 2023 - To: 31 March 2024
+From: 10 May 2023 - To: 01 April 2024
 
-Total Time: 3,150 hrs 32 mins
+Total Time: 3,160 hrs 33 mins
 
-Other              2,682 hrs 16 mins⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀   85.14 %
+Other              2,690 hrs 51 mins⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀   85.14 %
 ```
 
 <!--END_SECTION:waka-simple-->
