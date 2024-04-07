@@ -54,11 +54,11 @@ Can't wait to talk! 🗣️
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#25](https://github.com/Abhi-gits/Project-IET_TNP_bk/pull/25) in [Abhi-gits/Project-IET_TNP_bk](https://github.com/Abhi-gits/Project-IET_TNP_bk)
-2. 🔒 Closed issue [#5](https://github.com/anurag629/IET_AGRA/issues/5) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
-3. 🎉 Merged PR [#12](https://github.com/anurag629/IET_AGRA/pull/12) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
-4. 🎉 Merged PR [#11](https://github.com/anurag629/IET_AGRA/pull/11) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
-5. 🗣 Commented on [#5](https://github.com/anurag629/IET_AGRA/issues/5#issuecomment-1854540580) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
+1. 🔒 Closed issue [#5](https://github.com/datawars-io-content/content-feedback/issues/5) in [datawars-io-content/content-feedback](https://github.com/datawars-io-content/content-feedback)
+2. 🔒 Closed issue [#4](https://github.com/datawars-io-content/content-feedback/issues/4) in [datawars-io-content/content-feedback](https://github.com/datawars-io-content/content-feedback)
+3. 🔒 Closed issue [#3](https://github.com/datawars-io-content/content-feedback/issues/3) in [datawars-io-content/content-feedback](https://github.com/datawars-io-content/content-feedback)
+4. 🔒 Closed issue [#6](https://github.com/datawars-io-content/content-feedback/issues/6) in [datawars-io-content/content-feedback](https://github.com/datawars-io-content/content-feedback)
+5. 🔒 Closed issue [#6](https://github.com/datawars-io-content/content-feedback/issues/6) in [datawars-io-content/content-feedback](https://github.com/datawars-io-content/content-feedback)
 <!--END_SECTION:activity-->
 
 ---
