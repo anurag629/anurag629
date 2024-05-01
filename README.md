@@ -54,7 +54,7 @@ Can't wait to talk! 🗣️
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5](https://github.com/datawars-io-content/content-feedback/issues/5) in [datawars-io-content/content-feedback](https://github.com/datawars-io-content/content-feedback)
+1. 💪 Opened PR [#2](https://github.com/datawars-io-content/project-author-documentation/pull/2) in [datawars-io-content/project-author-documentation](https://github.com/datawars-io-content/project-author-documentation)
 2. 🔒 Closed issue [#4](https://github.com/datawars-io-content/content-feedback/issues/4) in [datawars-io-content/content-feedback](https://github.com/datawars-io-content/content-feedback)
 3. 🔒 Closed issue [#3](https://github.com/datawars-io-content/content-feedback/issues/3) in [datawars-io-content/content-feedback](https://github.com/datawars-io-content/content-feedback)
 4. 🔒 Closed issue [#6](https://github.com/datawars-io-content/content-feedback/issues/6) in [datawars-io-content/content-feedback](https://github.com/datawars-io-content/content-feedback)
