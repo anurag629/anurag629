@@ -54,8 +54,8 @@ Can't wait to talk! 🗣️
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/anurag629/StartSphere/pull/1) in [anurag629/StartSphere](https://github.com/anurag629/StartSphere)
-2. 🔒 Closed issue [#4](https://github.com/datawars-io-content/content-feedback/issues/4) in [datawars-io-content/content-feedback](https://github.com/datawars-io-content/content-feedback)
+1. 🎉 Merged PR [#2](https://github.com/anurag629/StartSphere/pull/2) in [anurag629/StartSphere](https://github.com/anurag629/StartSphere)
+2. 🎉 Merged PR [#1](https://github.com/anurag629/StartSphere/pull/1) in [anurag629/StartSphere](https://github.com/anurag629/StartSphere)
 3. 🔒 Closed issue [#3](https://github.com/datawars-io-content/content-feedback/issues/3) in [datawars-io-content/content-feedback](https://github.com/datawars-io-content/content-feedback)
 4. 🔒 Closed issue [#6](https://github.com/datawars-io-content/content-feedback/issues/6) in [datawars-io-content/content-feedback](https://github.com/datawars-io-content/content-feedback)
 5. 🔒 Closed issue [#6](https://github.com/datawars-io-content/content-feedback/issues/6) in [datawars-io-content/content-feedback](https://github.com/datawars-io-content/content-feedback)
