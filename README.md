@@ -70,8 +70,6 @@ Can't wait to talk! 🗣️
 
 > 📦 753.5 kB Used in GitHub's Storage 
  > 
-> 🏆 984 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 75 Public Repositories 
@@ -143,7 +141,7 @@ JavaScript               7 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/anurag629/anurag629/main/assets/bar_graph.png)
 
 
- Last Updated on 17/06/2024 05:54:16 UTC
+ Last Updated on 17/06/2024 05:58:43 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
