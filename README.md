@@ -44,14 +44,6 @@ Can't wait to talk! 🗣️
   <!-- STACKOVERFLOW:START --><tr><td>Answer by Anurag Verma for no module named cairo - python and pip</td><td>https://stackoverflow.com/questions/53273815/no-module-named-cairo-python-and-pip/76605722#76605722</td></tr><tr><td>Answer by Anurag Verma for Dataframe: Permutations after grouping column data into a dictionary/list with recurring elements</td><td>https://stackoverflow.com/questions/76525764/dataframe-permutations-after-grouping-column-data-into-a-dictionary-list-with-r/76534263#76534263</td></tr><tr><td>Answer by Anurag Verma for when npm run dev diagnostics show up [Astro framework]</td><td>https://stackoverflow.com/questions/76116605/when-npm-run-dev-diagnostics-show-up-astro-framework/76362357#76362357</td></tr><tr><td>How to access the markdown files stored in the second repository in the Astro framework</td><td>https://stackoverflow.com/questions/76283717/how-to-access-the-markdown-files-stored-in-the-second-repository-in-the-astro-fr</td></tr><tr><td>Answer by Anurag Verma for Pandas: How to select the value of one column based on filtering another column?</td><td>https://stackoverflow.com/questions/76222153/pandas-how-to-select-the-value-of-one-column-based-on-filtering-another-column/76222191#76222191</td></tr><!-- STACKOVERFLOW:END -->
 </table>
 
----
-
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=anurag629&theme=onedark&column=-1" />
-</p>
-
----
-
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#14](https://github.com/anurag629/IET_AGRA/pull/14) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
@@ -136,13 +128,6 @@ HTML                     8 repos             █░░░░░░░░░░�
 JavaScript               7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 TypeScript               7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 ```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/anurag629/anurag629/main/assets/bar_graph.png)
-
 
  Last Updated on 25/07/2024 06:31:11 UTC
 <!--END_SECTION:waka-->
