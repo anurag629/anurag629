@@ -56,13 +56,11 @@ Can't wait to talk! 🗣️
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C286%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C286%20hrs%2041%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 760.0 kB Used in GitHub's Storage 
- > 
-> 🏆 1,103 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -136,7 +134,7 @@ TypeScript               7 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/anurag629/anurag629/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2024 05:42:18 UTC
+ Last Updated on 27/07/2024 05:48:04 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
