@@ -18,14 +18,6 @@ Let's chat codes 👨‍💻, numbers 🧮, and machines 🤖 over coffee! ☕ I
 
 Can't wait to talk! 🗣️
 
----
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=mwvywke3fo2gajpenodnmobfh&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true">
-</p>
-
----
-
 # Recent Blog Post
 
 <!-- BLOG-POST-LIST:START -->
@@ -128,11 +120,6 @@ JavaScript               7 repos             █░░░░░░░░░░�
 TypeScript               7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/anurag629/anurag629/main/assets/bar_graph.png)
 
 
  Last Updated on 30/07/2024 06:07:16 UTC
