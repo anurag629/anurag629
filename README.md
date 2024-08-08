@@ -21,11 +21,11 @@ Can't wait to talk! 🗣️
 # Recent Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding the Roles: Data Scientist, Data Analyst, and Data Engineer](https://codercops.tech/blog/data-science-machine-learning/understanding-the-roles-data-scientist-data-analyst-data-engineer)
+- [Understanding McClelland&#39;s Three Needs Theory](https://codercops.tech/blog/tips-motivation/understanding-mcclellands-three-needs-theory)
 - [The Financial Market Fall: Causes, Long-Term Impact, and Solutions - US Fed Rates Hike, Economic Data, Geopolitical Tensions](https://codercops.tech/blog/finance-market-latest-updates/the-financial-market-fall-causes-long-term-impact-and-solutions-us-fed-rates-hike-economic)
 - [AI and Tech World is Heating Up!](https://codercops.tech/blog/tech-latest-updates/AI-and-Tech-World-is-Heating-Up)
 - [Bard Soars with Gemini- Unlocking New Frontiers in AI](https://codercops.tech/blog/tech-latest-updates/bard-soars-with-gemini-unlocking-new-frontiers-in-aI)
-- [Logistic Regression: Math behind the Model explained with Python and maths formulas](https://codercops.tech/blog/machine-learning-algorithms/logistic-regression-mathematical-intuation)
-- [Simple Linear Regression: Mathematical Intuition and Implementation in Python](https://codercops.tech/blog/machine-learning-algorithms/simple-linear-regression-mathematical-intuation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
