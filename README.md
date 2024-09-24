@@ -21,11 +21,11 @@ Can't wait to talk! 🗣️
 # Recent Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [Comprehensive Guide to Google Cloud Storage Using CLI/SDK and Advanced Bucket Lock Features](https://codercops.tech/blog/google-cloud/Google-Cloud-Storage-Using-CLI-SDK-and-Advanced-Bucket-Lock-Features)
 - [Generative AI: Separating Hype from Reality in the Tech Revolution](https://codercops.tech/blog/tech-latest-updates/generative-ai-seperating-hype-from-reality-in-the-tech-revolution)
 - [How Does Raising Interest Rates Control Inflation?](https://codercops.tech/blog/startup-unicorn/how-does-raising-interest-rates-control-inflation)
 - [Understanding the Roles: Data Scientist, Data Analyst, and Data Engineer](https://codercops.tech/blog/data-science-machine-learning/understanding-the-roles-data-scientist-data-analyst-data-engineer)
 - [Understanding McClelland&#39;s Three Needs Theory](https://codercops.tech/blog/tips-motivation/understanding-mcclellands-three-needs-theory)
-- [The Financial Market Fall: Causes, Long-Term Impact, and Solutions - US Fed Rates Hike, Economic Data, Geopolitical Tensions](https://codercops.tech/blog/finance-market-latest-updates/the-financial-market-fall-causes-long-term-impact-and-solutions-us-fed-rates-hike-economic)
 <!-- BLOG-POST-LIST:END -->
 
 ---
