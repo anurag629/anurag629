@@ -21,11 +21,11 @@ Can't wait to talk! 🗣️
 # Recent Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [Guide to Setting Up OpenCV in an Anaconda Environment on Ubuntu!](https://codercops.tech/blog/computer-vision-bootcamp/Guide-to-Setting-Up-OpenCV-in-an-Anaconda-Environment-on-Ubuntu!)
 - [Guide to Google Cloud&#39;s Pub/Sub, Cloud Scheduler, Pub/Sub Lite, and Pub/Sub Schemas](https://codercops.tech/blog/google-cloud/Google-Clouds-Pub-Sub-Cloud-Scheduler-Pub-Sub-Lite-and-Pub-Sub-Schemas)
 - [Comprehensive Guide to Google Cloud Storage Using CLI/SDK and Advanced Bucket Lock Features](https://codercops.tech/blog/google-cloud/Google-Cloud-Storage-Using-CLI-SDK-and-Advanced-Bucket-Lock-Features)
 - [Generative AI: Separating Hype from Reality in the Tech Revolution](https://codercops.tech/blog/tech-latest-updates/generative-ai-seperating-hype-from-reality-in-the-tech-revolution)
 - [How Does Raising Interest Rates Control Inflation?](https://codercops.tech/blog/startup-unicorn/how-does-raising-interest-rates-control-inflation)
-- [Understanding the Roles: Data Scientist, Data Analyst, and Data Engineer](https://codercops.tech/blog/data-science-machine-learning/understanding-the-roles-data-scientist-data-analyst-data-engineer)
 <!-- BLOG-POST-LIST:END -->
 
 ---
