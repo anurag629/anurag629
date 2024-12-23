@@ -1,10 +1,9 @@
 name: Combined Workflows
 
 on:
-  push:
   schedule:
-    - cron: "20 5 * * *"
-  workflow_dispatch:
+    - cron: "20 5 * * *" # Scheduled trigger
+  workflow_dispatch: # Manual trigger
 
 jobs:
   blog_post_update:
@@ -21,6 +20,7 @@ jobs:
   github_activity_update:
     name: 🔄 GitHub Activity Update
     runs-on: ubuntu-latest
+    needs: blog_post_update # Run after blog_post_update
     permissions:
       contents: write
     steps:
@@ -38,6 +38,7 @@ jobs:
   stackoverflow_activity_update:
     name: 📚 StackOverflow Activity Update
     runs-on: ubuntu-latest
+    needs: github_activity_update # Run after github_activity_update
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
@@ -52,6 +53,7 @@ jobs:
   waka_stats_update:
     name: 📊 Waka Stats Update
     runs-on: ubuntu-latest
+    needs: stackoverflow_activity_update # Run after stackoverflow_activity_update
     steps:
       - name: Update README with Waka Stats
         uses: anmol098/waka-readme-stats@master
@@ -63,6 +65,7 @@ jobs:
   waka_readme_update:
     name: 📈 Waka Readme Metrics Update
     runs-on: ubuntu-latest
+    needs: waka_stats_update # Run after waka_stats_update
     steps:
       - name: Update README with Waka Readme Metrics
         uses: guilyx/waka-readme@master
