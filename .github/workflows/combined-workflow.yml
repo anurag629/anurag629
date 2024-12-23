@@ -1,4 +1,4 @@
-name: Combined Workflow
+name: Combined Workflows
 
 on:
   push:
@@ -7,23 +7,27 @@ on:
   workflow_dispatch:
 
 jobs:
-  blog-post-update:
-    name: Blog Post Update
+  blog_post_update:
+    name: 📰 Blog Post Update
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+      - name: Update README with Latest Blog Posts
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://codercops.tech/feed.xml"
 
-  github-activity-update:
-    name: GitHub Activity Update
+  github_activity_update:
+    name: 🔄 GitHub Activity Update
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@master
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+      - name: Update README with Recent Activity
+        uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUBTOKEN }}
         with:
@@ -31,33 +35,37 @@ jobs:
           MAX_LINES: 10
           COMMIT_NAME: GitHub Activity Readme
 
-  stackoverflow-activity-update:
-    name: StackOverflow Activity Update
+  stackoverflow_activity_update:
+    name: 📚 StackOverflow Activity Update
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+      - name: Update README with StackOverflow Activity
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "STACKOVERFLOW"
           commit_message: "Updated readme with the latest stackOverflow data"
           feed_list: "https://stackoverflow.com/feeds/user/16866182"
           template: "<tr><td>$title</td><td>$url</td></tr>"
 
-  waka-stats-update:
-    name: Waka Stats Update
+  waka_stats_update:
+    name: 📊 Waka Stats Update
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - name: Update README with Waka Stats
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUBTOKEN }}
           SHOW_PROFILE_VIEWS: False
 
-  waka-readme-update:
-    name: Waka Readme Update
+  waka_readme_update:
+    name: 📈 Waka Readme Metrics Update
     runs-on: ubuntu-latest
     steps:
-      - uses: guilyx/waka-readme@master
+      - name: Update README with Waka Readme Metrics
+        uses: guilyx/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUBTOKEN }}
