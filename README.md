@@ -134,11 +134,11 @@ TypeScript               7 repos             █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 10 May 2023 - To: 31 July 2024
+From: 10 May 2023 - To: 22 December 2024
 
-Total Time: 4,354 hrs 23 mins
+Total Time: 5,855 hrs 26 mins
 
-Other              3,729 hrs 26 mins⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀   85.65 %
+Other              4,957 hrs 19 mins⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀   84.66 %
 ```
 
 <!--END_SECTION:waka-simple-->
