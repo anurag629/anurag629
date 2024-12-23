@@ -7,8 +7,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  blog-post-update:
+    name: Blog Post Update
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -16,8 +16,8 @@ jobs:
         with:
           feed_list: "https://codercops.tech/feed.xml"
 
-  update-readme-with-recent-activity:
-    name: Update this repo's README with recent GitHub activity
+  github-activity-update:
+    name: GitHub Activity Update
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -31,8 +31,8 @@ jobs:
           MAX_LINES: 10
           COMMIT_NAME: GitHub Activity Readme
 
-  update-readme-with-stack-overflow:
-    name: Update this repo's README with latest StackOverflow activity
+  stackoverflow-activity-update:
+    name: StackOverflow Activity Update
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -43,8 +43,8 @@ jobs:
           feed_list: "https://stackoverflow.com/feeds/user/16866182"
           template: "<tr><td>$title</td><td>$url</td></tr>"
 
-  update-readme-with-waka-stats:
-    name: Update README with WakaTime Metrics
+  waka-stats-update:
+    name: Waka Stats Update
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
@@ -53,8 +53,8 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUBTOKEN }}
           SHOW_PROFILE_VIEWS: False
 
-  update-readme-with-waka-readme:
-    name: Update README with Waka Readme DevMetrics
+  waka-readme-update:
+    name: Waka Readme Update
     runs-on: ubuntu-latest
     steps:
       - uses: guilyx/waka-readme@master
