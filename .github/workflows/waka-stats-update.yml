@@ -1,0 +1,18 @@
+name: Waka Stats Update
+
+on:
+  schedule:
+    - cron: "20 5 * * *"
+  workflow_dispatch:
+
+jobs:
+  waka_stats_update:
+    name: 📊 Waka Stats Update
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update README with Waka Stats
+        uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUBTOKEN }}
+          SHOW_PROFILE_VIEWS: False
