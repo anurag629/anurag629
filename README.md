@@ -134,11 +134,11 @@ Dart                     1 repo              █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 10 May 2023 - To: 29 December 2024
+From: 10 May 2023 - To: 30 December 2024
 
-Total Time: 5,913 hrs 7 mins
+Total Time: 5,927 hrs 32 mins
 
-Other              4,995 hrs 15 mins⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀   84.48 %
+Other              5,007 hrs 42 mins⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀   84.48 %
 ```
 
 <!--END_SECTION:waka-simple-->
