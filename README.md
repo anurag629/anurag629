@@ -38,8 +38,8 @@ Can't wait to talk! 🗣️
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/anurag629/IET_AGRA/pull/14) in [anurag629/IET_AGRA](https://github.com/anurag629/IET_AGRA)
-2. 🎉 Merged PR [#25](https://github.com/Abhi-gits/Project-IET_TNP_bk/pull/25) in [Abhi-gits/Project-IET_TNP_bk](https://github.com/Abhi-gits/Project-IET_TNP_bk)
+1. 🔒 Closed issue [#2](https://github.com/codercops/.github/issues/2) in [codercops/.github](https://github.com/codercops/.github)
+2. ❗ Opened issue [#2](https://github.com/codercops/.github/issues/2) in [codercops/.github](https://github.com/codercops/.github)
 3. 🎉 Merged PR [#3](https://github.com/anurag629/StartSphere/pull/3) in [anurag629/StartSphere](https://github.com/anurag629/StartSphere)
 4. 🔒 Closed issue [#6](https://github.com/datawars-io-content/content-feedback/issues/6) in [datawars-io-content/content-feedback](https://github.com/datawars-io-content/content-feedback)
 5. 🔒 Closed issue [#6](https://github.com/datawars-io-content/content-feedback/issues/6) in [datawars-io-content/content-feedback](https://github.com/datawars-io-content/content-feedback)
