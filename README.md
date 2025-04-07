@@ -135,11 +135,11 @@ MDX                      1 repo              █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 
 ```text
-From: 10 May 2023 - To: 04 April 2025
+From: 10 May 2023 - To: 05 April 2025
 
-Total Time: 6,958 hrs 59 mins
+Total Time: 6,969 hrs 3 mins
 
-Other              5,623 hrs 53 mins⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀   80.81 %
+Other              5,626 hrs 59 mins⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀   80.74 %
 ```
 
 <!--END_SECTION:waka-simple-->
