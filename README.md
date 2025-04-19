@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Anurag Verma</h1>
 
-What's up, friends! 👋 I'm a computer science student about to finish my last year of college. 🎓
+What's up, friends! 👋 I'm a Founder of [CODERCOPS](www.codercops.com) 🎓
 
 I LOVE writing code! ❤️ It makes me so happy! 😄 Whether I'm goofing in notebooks 📓 or coding in Python 🐍, writing programs is a blast! 💥
 
