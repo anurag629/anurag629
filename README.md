@@ -38,9 +38,9 @@ Can't wait to talk! 🗣️
 
 # Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/codercops/.github/issues/2) in [codercops/.github](https://github.com/codercops/.github)
-2. ❗ Opened issue [#2](https://github.com/codercops/.github/issues/2) in [codercops/.github](https://github.com/codercops/.github)
-3. 🎉 Merged PR [#3](https://github.com/anurag629/StartSphere/pull/3) in [anurag629/StartSphere](https://github.com/anurag629/StartSphere)
+1. 🗣 Commented on [#6](https://github.com/Dhrubaraj-Roy/skills-github-pages/issues/6#issuecomment-2816675607) in [Dhrubaraj-Roy/skills-github-pages](https://github.com/Dhrubaraj-Roy/skills-github-pages)
+2. 🔒 Closed issue [#2](https://github.com/codercops/.github/issues/2) in [codercops/.github](https://github.com/codercops/.github)
+3. ❗ Opened issue [#2](https://github.com/codercops/.github/issues/2) in [codercops/.github](https://github.com/codercops/.github)
 4. 🔒 Closed issue [#6](https://github.com/datawars-io-content/content-feedback/issues/6) in [datawars-io-content/content-feedback](https://github.com/datawars-io-content/content-feedback)
 5. 🔒 Closed issue [#6](https://github.com/datawars-io-content/content-feedback/issues/6) in [datawars-io-content/content-feedback](https://github.com/datawars-io-content/content-feedback)
 <!--END_SECTION:activity-->
