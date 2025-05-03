@@ -48,11 +48,13 @@ Can't wait to talk! 🗣️
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C337%20hrs%2043%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,112 Contributions in the Year 2025
+> 🏆 1,113 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -77,7 +79,7 @@ MDX                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/anurag629/anurag629/main/assets/bar_graph.png)
 
 
- Last Updated on 02/05/2025 05:34:42 UTC
+ Last Updated on 03/05/2025 05:34:11 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
