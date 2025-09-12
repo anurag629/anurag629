@@ -4,19 +4,18 @@
 
 <h1 align="center">Hi 👋, I'm Anurag Verma</h1>
 
-What's up, friends! 👋 I'm a building of [www.codercops.com](https://www.codercops.com/) 🎓
+What's up, friends! 👋 I'm the founder of [www.codercops.com](https://www.codercops.com/) — **currently under active development 🚧** — and I'm busy building cool stuff as a **Full Stack Developer** at DataWars! 🚀
 
-I LOVE writing code! ❤️ It makes me so happy! 😄 Whether I'm goofing in notebooks 📓 or coding in Python 🐍, writing programs is a blast! 💥
+I **LOVE** crafting scalable backend systems! ❤️ Whether I'm architecting APIs 🔌, optimizing databases 💾, or coding in Python 🐍 & JavaScript ⚡, turning ideas into robust apps is my happy place. 💥
 
-When I'm not geeking out over AI 🤖 with my classmates or building neural networks, 🧠 you can find me buried in statistics textbooks. 📚 I know, what a nerd! 🤓
+When I'm not geeking out over system architecture 🏗️ or building browser-based coding platforms, you’ll find me integrating AI models into web apps 🤖 or exploring new frameworks. Total nerd? Absolutely! 🤓
 
-I'm always down to learn new ways to speak human 🫂 and computer 💻. Making tech more fun is my jam! 🍇
+I recently level-upped from **Data Science Team Lead** to **Full Stack Developer**.
 
-If you want a cheery data buddy 😎 who can make difficult things easy-peasy 🥝 and learning a party 🎉, I'm your guy! 🙋‍♂️
+Always up for learning, optimizing performance 🚀, and making tech more accessible. If you want a **cheery backend buddy** 😎 who can turn complex architectures into easy-peasy solutions 🥝 — I'm your guy! 🙋‍♂️
 
-Let's chat codes 👨‍💻, numbers 🧮, and machines 🤖 over coffee! ☕ I'd love to meet more techy humans. 💁‍♂️
-
-Can't wait to talk! 🗣️
+Let’s chat **APIs** 🔧, **databases** 💽, **Docker** 🐳, or **cloud architecture** ☁️ over coffee! ☕  
+Can’t wait to connect! 🗣️
 
 
 ### Latest StackOveflow activity of [@anurag629](https://github.com/anurag629)
