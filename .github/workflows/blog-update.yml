@@ -1,0 +1,38 @@
+name: Blog Posts Update
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"  # Run every Sunday at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update_blog_posts:
+    name: 📝 Update Blog Posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        
+      - name: Fetch and Update Blog Posts
+        run: |
+          # Fetch blog posts from API
+          response=$(curl -s "http://api-agency.codercops.com/api/v1/blog/posts/?page=1&size=5")
+          
+          # Start building the markdown table
+          blog_content="### Latest Blog Posts from [CoderCops](https://www.codercops.com/)\n<table>\n  <tr><th>Title</th><th>Category</th><th>Published</th></tr>\n  <!-- BLOG:START -->"
+          
+          # Parse JSON and create table rows (using jq)
+          blog_rows=$(echo "$response" | jq -r '.results[] | "<tr><td><a href=\"https://www.codercops.com/blog/\(.slug)\">\(.title)</a></td><td>\(.category.name)</td><td>\(.published_at[:10])</td></tr>"')
+          
+          blog_content="${blog_content}${blog_rows}<!-- BLOG:END -->\n</table>"
+          
+          # Update README.md
+          sed -i '/<!-- BLOG:START -->/,/<!-- BLOG:END -->/c\<!-- BLOG:START -->'"${blog_rows}"'<!-- BLOG:END -->' README.md
+          
+      - name: Commit Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update blog posts"
+          git push

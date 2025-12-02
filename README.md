@@ -11,6 +11,13 @@ I specialize in architecting APIs, optimizing databases, and developing with Pyt
 Former Data Science Team Lead turned Full Stack Developer, passionate about making complex architectures simple and accessible.
 
 
+### Latest Blog Posts from [CoderCops](https://www.codercops.com/)
+<table>
+  <tr><th>Title</th><th>Category</th><th>Published</th></tr>
+  <!-- BLOG:START --><!-- BLOG:END -->
+</table>
+
+
 ### Latest StackOveflow activity of [@anurag629](https://github.com/anurag629)
 <table>
   <tr><th>Title</th><th>Link</th></tr>
