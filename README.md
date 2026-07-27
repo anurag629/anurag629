@@ -22,8 +22,6 @@
 
 <!-- ═══════════════════════ WHOAMI ═══════════════════════ -->
 
-<img align="right" width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag629&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" />
-
 ```python
 class Anurag:
     """Uttar Pradesh, India · building since 2021"""
@@ -44,8 +42,6 @@ class Anurag:
     def why(self):
         return "Wrappers are easy. The layer underneath is the moat."
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -87,22 +83,22 @@ One API across OpenAI, Anthropic, Bedrock, OpenRouter. Per-request billing, encr
 <div align="center">
 
 <a href="https://github.com/anurag629/50-Days-Data-Science">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=anurag629&repo=50-Days-Data-Science&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
+  <img width="49%" src="https://socialify.git.ci/anurag629/50-Days-Data-Science/image?description=1&font=Inter&forks=1&language=1&name=1&pattern=Circuit+Board&stargazers=1&theme=Dark" />
 </a>
 <a href="https://github.com/anurag629/cortex-bridge">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=anurag629&repo=cortex-bridge&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
+  <img width="49%" src="https://socialify.git.ci/anurag629/cortex-bridge/image?description=1&font=Inter&forks=1&language=1&name=1&pattern=Circuit+Board&stargazers=1&theme=Dark" />
 </a>
 <a href="https://github.com/anurag629/omega-server">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=anurag629&repo=omega-server&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
+  <img width="49%" src="https://socialify.git.ci/anurag629/omega-server/image?description=1&font=Inter&forks=1&language=1&name=1&pattern=Circuit+Board&stargazers=1&theme=Dark" />
 </a>
 <a href="https://github.com/anurag629/ai_interview">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=anurag629&repo=ai_interview&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
+  <img width="49%" src="https://socialify.git.ci/anurag629/ai_interview/image?description=1&font=Inter&forks=1&language=1&name=1&pattern=Circuit+Board&stargazers=1&theme=Dark" />
 </a>
 <a href="https://github.com/anurag629/netra_ai_surviellance">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=anurag629&repo=netra_ai_surviellance&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
+  <img width="49%" src="https://socialify.git.ci/anurag629/netra_ai_surviellance/image?description=1&font=Inter&forks=1&language=1&name=1&pattern=Circuit+Board&stargazers=1&theme=Dark" />
 </a>
 <a href="https://github.com/anurag629/lore">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=anurag629&repo=lore&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
+  <img width="49%" src="https://socialify.git.ci/anurag629/lore/image?description=1&font=Inter&forks=1&language=1&name=1&pattern=Circuit+Board&stargazers=1&theme=Dark" />
 </a>
 
 </div>
@@ -123,30 +119,19 @@ One API across OpenAI, Anthropic, Bedrock, OpenRouter. Per-request billing, encr
 
 ---
 
-<!-- ═══════════════════════ STACK ═══════════════════════ -->
-
-## 🧰 Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,ts,js,nextjs,react,tailwind&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,mongodb,redis,docker,azure,aws&theme=dark" />
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,linux,nginx,vercel,githubactions,figma,vscode&theme=dark" />
-
-</div>
-
----
-
 <!-- ═══════════════════════ STATS ═══════════════════════ -->
 
 ## 📊 By the numbers
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anurag629&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
-<img width="49%" src="https://streak-stats.demolab.com?user=anurag629&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anurag629&theme=github_dark" />
+
+<br/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anurag629&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anurag629&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anurag629&theme=github_dark&utcOffset=5.5" />
 
 <br/><br/>
 
