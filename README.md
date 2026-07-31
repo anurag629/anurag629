@@ -5,7 +5,7 @@
 <div align="center">
 
 <a href="https://github.com/anurag629">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=39D353&center=true&vCenter=true&width=680&lines=%24+I+build+the+boring+layer+under+the+magic.;%24+LLM+gateways+%C2%B7+agent+memory+%C2%B7+model+routing.;%24+Founder+%40+CoderCops+%E2%80%94+AI-native+recruiting.;%24+Most+AI+apps+are+one+API+call.+I+ship+the+rest." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1100&color=39D353&center=true&vCenter=true&width=680&lines=%24+I+build+the+boring+layer+under+the+magic.;%24+LLM+gateways+%C2%B7+agent+memory+%C2%B7+model+routing.;%24+Founder+%40+CODERCOPS+%E2%80%94+AI-native+recruiting.;%24+Most+AI+apps+are+one+API+call.+I+ship+the+rest." alt="Typing SVG" />
 </a>
 
 <br/><br/>
